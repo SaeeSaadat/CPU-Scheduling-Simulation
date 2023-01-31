@@ -5,7 +5,8 @@ from task import Task
 
 
 class TaskQueue:
-    def __init__(self):
+    def __init__(self, name):
+        self.name = name
         self._elements: List[Task] = []
         self.rrt = math.inf
 
@@ -23,13 +24,14 @@ class FifoQueue(TaskQueue):
 
 
 class RoundRobinQueue(FifoQueue):
-    def __init__(self, rrt: int):
-        super().__init__()
+    def __init__(self, rrt: int, name):
+        super().__init__(name)
         self.rrt = rrt
 
 
 class PriorityQueue:
-    def __init__(self):
+    def __init__(self, name):
+        self.name = name
         self._elements: List[Tuple[int, Task]] = []
 
     def enqueue_with_priority(self, priority: int, value: Task):

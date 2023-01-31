@@ -14,11 +14,11 @@ class Environment:
         # self.num_of_tasks = int(input("Number of tasks: "))
         # self.sim_length = int(input("Simulation time: "))
 
-        self.x = 10
+        self.x = 0.1
         self.y = 10
-        self.z = 10
-        self.num_of_tasks = 5
-        self.sim_length = 100
+        self.z = 100
+        self.num_of_tasks = 20
+        self.sim_length = 300
 
         self.clock = 0
 
@@ -30,10 +30,10 @@ class Environment:
         self.priority_population = [1, 2, 3]  # [LOW, NORMAL, HIGH]
         self.priority_weight_queue = [0.8, 0.1, 0.1]
 
-        self.priorityQueue = PriorityQueue()
-        self.rrQueue1 = RoundRobinQueue(self.t1)
-        self.rrQueue2 = RoundRobinQueue(self.t1)
-        self.fifoQueue = FifoQueue()
+        self.priorityQueue = PriorityQueue('pq')
+        self.rrQueue1 = RoundRobinQueue(self.t1, 'rr1')
+        self.rrQueue2 = RoundRobinQueue(self.t1, 'rr2')
+        self.fifoQueue = FifoQueue('fcfs')
 
     def load_task(self, task: Task):
         self.priorityQueue.enqueue_with_priority(task.priority * self.sim_length + task.arrival, task)
@@ -63,7 +63,7 @@ class Environment:
         # this is the JobCreator method
         t = 0
         for i in range(self.num_of_tasks):
-            interarrival = np.random.exponential(self.x) if i > 0 else 0
+            interarrival = np.random.exponential(1/self.x) if i > 0 else 0
             t += interarrival
             service_time = round(np.random.exponential(self.y))
             timeout = round(np.random.exponential(self.z))

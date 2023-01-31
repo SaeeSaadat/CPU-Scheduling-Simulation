@@ -3,6 +3,15 @@ from environment import Environment
 from task import Task
 import logging
 
+# for final statistics
+queue_lens = {
+    'pq': [],
+    'rr1': [],
+    'rr2': [],
+    'fcfs': []
+}
+
+cpu_busy = []
 
 def main():
     # Preparation
@@ -23,6 +32,16 @@ def main():
 
         dispatcher(environment, cpu, t)
 
+        queue_lens['pq'].append(len(environment.priorityQueue))
+        queue_lens['rr1'].append(len(environment.rrQueue1))
+        queue_lens['rr2'].append(len(environment.rrQueue2))
+        queue_lens['fcfs'].append(len(environment.fifoQueue))
+
+        cpu_busy.append(1 if cpu.is_busy else 0)
+
+
+        
+    print(Task.tasks[0].queue_times)
     final_results()
 
 
@@ -65,7 +84,7 @@ def dispatcher(environment: Environment, cpu: CPU, simulation_time: int):
     if not cpu.is_busy:  # either task has finished or timeout has occurred
         task = cpu.current_task
         if task.is_finished:
-            task.exit_time = simulation_time
+            task.exit_time = simulation_time + 1
         else:  # requeue the task
             destination_queue = environment.get_next_queue(selected_queue)
             destination_queue.enqueue(task)
@@ -74,6 +93,12 @@ def dispatcher(environment: Environment, cpu: CPU, simulation_time: int):
 def final_results():
     logging.info("\n\n\n")
     logging.info(Task.tasks)
+
+    for q in ['pq', 'rr1', 'rr2', 'fcfs']:
+        logging.info(f'{q} average time: {sum([t.queue_times[q] for t in Task.tasks])/len(Task.tasks)}')
+        logging.info(f'{q} average length: {sum(queue_lens[q])/len(queue_lens[q])}')
+
+    logging.info(f'cpu was busy {100*sum(cpu_busy)/len(cpu_busy)}% of the time')
 
 
 def configure_logging():

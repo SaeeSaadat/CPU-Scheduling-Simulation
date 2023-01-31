@@ -1,2364 +1,73 @@
-[INFO] 22:59:25 Executing task 1
-[INFO] 22:59:25 Executing task 1
-[INFO] 22:59:25 Executing task 1
-[INFO] 22:59:25 Executing task 1
-[INFO] 22:59:25 Executing task 1
-[INFO] 22:59:54 Loading tasks
-[INFO] 22:59:54 Executing task 1
-[INFO] 22:59:54 Loading tasks
-[INFO] 22:59:54 Executing task 1
-[INFO] 22:59:54 Loading tasks
-[INFO] 22:59:54 Executing task 1
-[INFO] 22:59:54 Loading tasks
-[INFO] 22:59:54 Executing task 1
-[INFO] 22:59:54 Loading tasks
-[INFO] 22:59:54 Executing task 1
-[INFO] 23:10:18 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:11:06 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:11:06 Loading tasks
-[INFO] 23:11:06 Executing task 1
-[INFO] 23:11:06 Loading tasks
-[INFO] 23:13:03 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:13:03 Loading tasks
-[INFO] 23:13:03 Executing task 1
-[INFO] 23:13:03 Loading tasks
-[INFO] 23:13:25 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:13:25 Loading tasks
-[INFO] 23:13:25 Executing task 1
-[INFO] 23:13:25 Loading tasks
-[INFO] 23:13:25 Loading tasks
-[INFO] 23:13:25 Loading tasks
-[INFO] 23:13:25 Loading tasks
-[INFO] 23:13:41 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Executing task 1
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:13:41 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 Executing task 1
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:26 next arrival @ 0
-[INFO] 23:15:26 Loading tasks
-[INFO] 23:15:52 index @ 0,  next arrival @ 0
-[INFO] 23:15:52 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 Executing task 1
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:15:52 index @ 1,  next arrival @ 0
-[INFO] 23:15:52 Loading tasks
-[INFO] 23:16:57 index @ 0,  next arrival @ 0
-[INFO] 23:16:57 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:16:57 [ARRIVAL] Task 2 has arrived!
-[INFO] 23:16:57 Loading tasks
-[INFO] 23:16:57 Executing task 2
-[INFO] 23:16:57 index @ 2,  next arrival @ 1
-[INFO] 23:16:57 [ARRIVAL] Task 3 has arrived!
-[INFO] 23:16:57 Loading tasks
-[INFO] 23:16:57 Executing task 2
-[INFO] 23:17:21 index @ 0,  next arrival @ 0
-[INFO] 23:17:21 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:17:21 [ARRIVAL] Task 2 has arrived!
-[INFO] 23:17:21 Loading tasks
-[INFO] 23:17:21 Executing task 2
-[INFO] 23:17:21 index @ 2,  next arrival @ 2
-[INFO] 23:17:21 Loading tasks
-[INFO] 23:17:21 Executing task 2
-[INFO] 23:17:21 index @ 2,  next arrival @ 2
-[INFO] 23:17:21 [ARRIVAL] Task 3 has arrived!
-[INFO] 23:17:21 Loading tasks
-[INFO] 23:17:21 Executing task 2
-[INFO] 23:17:21 index @ 3,  next arrival @ 9
-[INFO] 23:17:21 Loading tasks
-[INFO] 23:17:21 Executing task 2
-[INFO] 23:18:31 index @ 0,  next arrival @ 0
-[INFO] 23:18:31 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 1
-[INFO] 23:18:31 index @ 1,  next arrival @ 5
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 1,  next arrival @ 5
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 1,  next arrival @ 5
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 1,  next arrival @ 5
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 1,  next arrival @ 5
-[INFO] 23:18:31 [ARRIVAL] Task 2 has arrived!
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 index @ 2,  next arrival @ 27
-[INFO] 23:18:31 [ARRIVAL] Task 3 has arrived!
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:31 index @ 3,  next arrival @ 51
-[INFO] 23:18:31 Loading tasks
-[INFO] 23:18:31 Executing task 2
-[INFO] 23:18:50 index @ 0,  next arrival @ 0
-[INFO] 23:18:50 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 Executing task 1
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 index @ 1,  next arrival @ 8
-[INFO] 23:18:50 [ARRIVAL] Task 2 has arrived!
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 Executing task 1
-[INFO] 23:18:50 index @ 2,  next arrival @ 17
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 Executing task 1
-[INFO] 23:18:50 index @ 2,  next arrival @ 17
-[INFO] 23:18:50 Loading tasks
-[INFO] 23:18:50 Executing task 1
-[INFO] 23:19:12 [ARRIVAL] Task 1 has arrived!
-[INFO] 23:19:12 [ARRIVAL] Task 2 has arrived!
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 [ARRIVAL] Task 3 has arrived!
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 [ARRIVAL] Task 4 has arrived!
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 Loading tasks
-[INFO] 23:19:12 Executing task 1
-[INFO] 23:19:12 [ARRIVAL] Task 5 has arrived!
-[INFO] [ARRIVAL] Task 1 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] [ARRIVAL] Task 2 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] [ARRIVAL] Task 3 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] [ARRIVAL] Task 4 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] [ARRIVAL] Task 5 has arrived!
-[INFO] [ARRIVAL] Task 1 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] [ARRIVAL] Task 2 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 22
-	waiting_time: 0
-	timeout: 8
-	priority: 3
-, 
-2) 
-	Arrival: 29
-	service_time: 1
-	waiting_time: 0
-	timeout: 13
-	priority: 1
-, 
-3) 
-	Arrival: 31
-	service_time: 3
-	waiting_time: 0
-	timeout: 3
-	priority: 3
-, 
-4) 
-	Arrival: 37
-	service_time: 5
-	waiting_time: 0
-	timeout: 1
-	priority: 3
-, 
-5) 
-	Arrival: 49
-	service_time: 4
-	waiting_time: 0
-	timeout: 6
-	priority: 3
-]
-[INFO] [ARRIVAL] Task 1 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] Loading tasks
-[INFO] [ARRIVAL] Task 2 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] [ARRIVAL] Task 3 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] [ARRIVAL] Task 4 has arrived!
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] Loading tasks
-[INFO] Executing task 1
-[INFO] [ARRIVAL] Task 5 has arrived!
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 22
-	waiting_time: 0
-	timeout: 6
-	priority: 3
-, 
-2) 
-	Arrival: 21
-	service_time: 5
-	waiting_time: 0
-	timeout: 8
-	priority: 3
-, 
-3) 
-	Arrival: 23
-	service_time: 21
-	waiting_time: 0
-	timeout: 1
-	priority: 3
-, 
-4) 
-	Arrival: 35
-	service_time: 2
-	waiting_time: 0
-	timeout: 20
-	priority: 3
-, 
-5) 
-	Arrival: 36
-	service_time: 3
-	waiting_time: 0
-	timeout: 4
-	priority: 1
-]
-[INFO] [0][ARRIVAL] Task 1 has arrived!
-[INFO] [0]Executing task 1
-[INFO] [21][ARRIVAL] Task 2 has arrived!
-[INFO] [21]Executing task 1
-[INFO] [22]Executing task 1
-[INFO] [23][ARRIVAL] Task 3 has arrived!
-[INFO] [23]Executing task 1
-[INFO] [24]Executing task 1
-[INFO] [25]Executing task 1
-[INFO] [26]Executing task 1
-[INFO] [27]Executing task 1
-[INFO] [28]Executing task 1
-[INFO] [29]Executing task 1
-[INFO] [30]Executing task 1
-[INFO] [31]Executing task 1
-[INFO] [32]Executing task 1
-[INFO] [33]Executing task 1
-[INFO] [34]Executing task 1
-[INFO] [35][ARRIVAL] Task 4 has arrived!
-[INFO] [35]Executing task 1
-[INFO] [36][ARRIVAL] Task 5 has arrived!
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 6
-	waiting_time: 0
-	timeout: 1
-	priority: 3
-, 
-2) 
-	Arrival: 21
-	service_time: 2
-	waiting_time: 0
-	timeout: 19
-	priority: 3
-, 
-3) 
-	Arrival: 39
-	service_time: 6
-	waiting_time: 0
-	timeout: 7
-	priority: 3
-, 
-4) 
-	Arrival: 48
-	service_time: 7
-	waiting_time: 0
-	timeout: 15
-	priority: 2
-, 
-5) 
-	Arrival: 53
-	service_time: 12
-	waiting_time: 0
-	timeout: 3
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [21]  [ARRIVAL] Task 2 has arrived!
-[INFO] [21]  Executing task 1
-[INFO] [22]  Executing task 1
-[INFO] [23]  Executing task 1
-[INFO] [24]  Executing task 1
-[INFO] [25]  Executing task 1
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 2
-	waiting_time: 0
-	timeout: 12
-	priority: 3
-, 
-2) 
-	Arrival: 5
-	service_time: 4
-	waiting_time: 0
-	timeout: 0
-	priority: 2
-, 
-3) 
-	Arrival: 7
-	service_time: 0
-	waiting_time: 0
-	timeout: 4
-	priority: 3
-, 
-4) 
-	Arrival: 16
-	service_time: 13
-	waiting_time: 0
-	timeout: 11
-	priority: 3
-, 
-5) 
-	Arrival: 17
-	service_time: 24
-	waiting_time: 0
-	timeout: 1
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 4
-	waiting_time: 0
-	timeout: 4
-	priority: 2
-, 
-2) 
-	Arrival: 4
-	service_time: 1
-	waiting_time: 0
-	timeout: 10
-	priority: 1
-, 
-3) 
-	Arrival: 23
-	service_time: 10
-	waiting_time: 0
-	timeout: 5
-	priority: 2
-, 
-4) 
-	Arrival: 28
-	service_time: 2
-	waiting_time: 0
-	timeout: 20
-	priority: 3
-, 
-5) 
-	Arrival: 41
-	service_time: 7
-	waiting_time: 0
-	timeout: 14
-	priority: 1
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [4]  [ARRIVAL] Task 2 has arrived!
-[INFO] [23]  [ARRIVAL] Task 3 has arrived!
-[INFO] [28]  [ARRIVAL] Task 4 has arrived!
-[INFO] [41]  [ARRIVAL] Task 5 has arrived!
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 9
-	waiting_time: 0
-	timeout: 1
-	priority: 3
-, 
-2) 
-	Arrival: 4
-	service_time: 1
-	waiting_time: 0
-	timeout: 4
-	priority: 3
-, 
-3) 
-	Arrival: 10
-	service_time: 2
-	waiting_time: 0
-	timeout: 18
-	priority: 3
-, 
-4) 
-	Arrival: 21
-	service_time: 3
-	waiting_time: 0
-	timeout: 13
-	priority: 2
-, 
-5) 
-	Arrival: 25
-	service_time: 3
-	waiting_time: 0
-	timeout: 22
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [4]  [ARRIVAL] Task 2 has arrived!
-[INFO] [10]  [ARRIVAL] Task 3 has arrived!
-[INFO] [21]  [ARRIVAL] Task 4 has arrived!
-[INFO] [25]  [ARRIVAL] Task 5 has arrived!
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 6
-	waiting_time: 0
-	timeout: 11
-	priority: 3
-, 
-2) 
-	Arrival: 0
-	service_time: 5
-	waiting_time: 0
-	timeout: 6
-	priority: 3
-, 
-3) 
-	Arrival: 20
-	service_time: 54
-	waiting_time: 0
-	timeout: 11
-	priority: 3
-, 
-4) 
-	Arrival: 28
-	service_time: 23
-	waiting_time: 0
-	timeout: 3
-	priority: 3
-, 
-5) 
-	Arrival: 30
-	service_time: 1
-	waiting_time: 0
-	timeout: 16
-	priority: 1
-]
 [INFO] [0]  [ARRIVAL] Task 1 has arrived!
 [INFO] [0]  [ARRIVAL] Task 2 has arrived!
-[INFO] [20]  [ARRIVAL] Task 3 has arrived!
-[INFO] [28]  [ARRIVAL] Task 4 has arrived!
-[INFO] [30]  [ARRIVAL] Task 5 has arrived!
-[INFO] Tasks: 
-[
+[INFO] [0]  [ARRIVAL] Task 3 has arrived!
+[INFO] [0]  [ARRIVAL] Task 4 has arrived!
+[INFO] [0]  [ARRIVAL] Task 5 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [14]  [Departure] Task 1 has left
+[INFO] [14]  [Execution] task 2
+[INFO] [21]  [Departure] Task 2 has left
+[INFO] [21]  [Execution] task 5
+[INFO] [25]  [Departure] Task 5 has left
+[INFO] [25]  [Execution] task 4
+[INFO] [26]  [Departure] Task 4 has left
+[INFO] [26]  [Execution] task 3
+[INFO] [28]  [Departure] Task 3 has left
+[INFO] 
+
+
+
+[INFO] [
 1) 
 	Arrival: 0
-	service_time: 5
-	waiting_time: 0
-	timeout: 23
-	priority: 3
-, 
+	service_time: 14
+	timeout: 1
+	priority: 2
+	waiting_time: 1
+	exit time: 13, 
 2) 
-	Arrival: 4
-	service_time: 4
-	waiting_time: 0
+	Arrival: 0
+	service_time: 7
+	timeout: 9
+	priority: 2
+	waiting_time: 15
+	exit time: 20, 
+3) 
+	Arrival: 0
+	service_time: 2
 	timeout: 31
 	priority: 3
-, 
-3) 
-	Arrival: 7
-	service_time: 7
-	waiting_time: 0
-	timeout: 4
-	priority: 2
-, 
+	waiting_time: 27
+	exit time: 27, 
 4) 
-	Arrival: 20
-	service_time: 10
-	waiting_time: 0
-	timeout: 1
-	priority: 3
-, 
-5) 
-	Arrival: 29
-	service_time: 6
-	waiting_time: 0
-	timeout: 4
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [4]  [ARRIVAL] Task 2 has arrived!
-[INFO] [4]  Executing task 1
-[INFO] [5]  Executing task 1
-[INFO] [6]  Executing task 1
-[INFO] [7]  [ARRIVAL] Task 3 has arrived!
-[INFO] [7]  Executing task 1
-[INFO] [8]  Executing task 3
-[INFO] [9]  Executing task 3
-[INFO] [10]  Executing task 3
-[INFO] [11]  Executing task 3
-[INFO] [12]  Executing task 3
-[INFO] [13]  Executing task 3
-[INFO] [14]  Executing task 3
-[INFO] [15]  Executing task 2
-[INFO] [20]  [ARRIVAL] Task 4 has arrived!
-[INFO] [20]  Executing task 2
-[INFO] [21]  Executing task 2
-[INFO] [22]  Executing task 2
-[INFO] [23]  Executing task 4
-[INFO] [29]  [ARRIVAL] Task 5 has arrived!
-[INFO] [29]  Executing task 4
-[INFO] [30]  Executing task 4
-[INFO] [31]  Executing task 4
-[INFO] [32]  Executing task 4
-[INFO] [33]  Executing task 4
-[INFO] [34]  Executing task 4
-[INFO] [35]  Executing task 4
-[INFO] [36]  Executing task 4
-[INFO] [37]  Executing task 4
-[INFO] [38]  Executing task 5
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 4
-	waiting_time: 0
-	timeout: 4
-	priority: 3
-, 
-2) 
-	Arrival: 3
-	service_time: 11
-	waiting_time: 0
-	timeout: 47
-	priority: 1
-, 
-3) 
-	Arrival: 7
-	service_time: 7
-	waiting_time: 0
-	timeout: 0
-	priority: 3
-, 
-4) 
-	Arrival: 20
-	service_time: 3
-	waiting_time: 0
-	timeout: 1
-	priority: 2
-, 
-5) 
-	Arrival: 23
-	service_time: 17
-	waiting_time: 0
-	timeout: 11
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [3]  [ARRIVAL] Task 2 has arrived!
-[INFO] [3]  Executing task 1
-[INFO] [4]  Executing task 1
-[INFO] [5]  Executing task 1
-[INFO] [6]  Executing task 2
-[INFO] [7]  [ARRIVAL] Task 3 has arrived!
-[INFO] [7]  Executing task 2
-[INFO] [8]  Executing task 2
-[INFO] [9]  Executing task 2
-[INFO] [10]  Executing task 2
-[INFO] [11]  Executing task 2
-[INFO] [12]  Executing task 2
-[INFO] [13]  Executing task 2
-[INFO] [14]  Executing task 2
-[INFO] [15]  Executing task 2
-[INFO] [16]  Executing task 2
-[INFO] [17]  Executing task 3
-[INFO] [20]  [ARRIVAL] Task 4 has arrived!
-[INFO] [20]  Executing task 3
-[INFO] [21]  Executing task 3
-[INFO] [22]  Executing task 3
-[INFO] [23]  [ARRIVAL] Task 5 has arrived!
-[INFO] [23]  Executing task 3
-[INFO] [24]  Executing task 3
-[INFO] [25]  Executing task 3
-[INFO] [26]  Executing task 5
-[INFO] [27]  Executing task 5
-[INFO] [28]  Executing task 5
-[INFO] [29]  Executing task 5
-[INFO] [30]  Executing task 5
-[INFO] [31]  Executing task 5
-[INFO] [32]  Executing task 5
-[INFO] [33]  Executing task 5
-[INFO] [34]  Executing task 5
-[INFO] [35]  Executing task 5
-[INFO] [36]  Executing task 5
-[INFO] [37]  Executing task 5
-[INFO] [38]  Executing task 5
-[INFO] [39]  Executing task 5
-[INFO] [40]  Executing task 5
-[INFO] [41]  Executing task 5
-[INFO] [42]  Executing task 5
-[INFO] [43]  Executing task 4
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 6
-	waiting_time: 0
-	timeout: 37
-	priority: 2
-, 
-2) 
-	Arrival: 14
-	service_time: 5
-	waiting_time: 0
-	timeout: 6
-	priority: 2
-, 
-3) 
-	Arrival: 16
-	service_time: 1
-	waiting_time: 0
-	timeout: 20
-	priority: 3
-, 
-4) 
-	Arrival: 31
-	service_time: 6
-	waiting_time: 0
-	timeout: 1
-	priority: 1
-, 
-5) 
-	Arrival: 31
-	service_time: 3
-	waiting_time: 0
-	timeout: 28
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [14]  [ARRIVAL] Task 2 has arrived!
-[INFO] [14]  Executing task 1
-[INFO] [15]  Executing task 1
-[INFO] [16]  [ARRIVAL] Task 3 has arrived!
-[INFO] [16]  Executing task 1
-[INFO] [17]  Executing task 1
-[INFO] [18]  Executing task 1
-[INFO] [19]  Executing task 3
-[INFO] [20]  Executing task 2
-[INFO] [31]  [ARRIVAL] Task 4 has arrived!
-[INFO] [31]  [ARRIVAL] Task 5 has arrived!
-[INFO] [31]  Executing task 2
-[INFO] [32]  Executing task 2
-[INFO] [33]  Executing task 2
-[INFO] [34]  Executing task 2
-[INFO] [35]  Executing task 4
-[INFO] [36]  Executing task 4
-[INFO] [37]  Executing task 4
-[INFO] [38]  Executing task 4
-[INFO] [39]  Executing task 4
-[INFO] [40]  Executing task 4
-[INFO] [41]  Executing task 5
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 6
-	waiting_time: 0
-	timeout: 37
-	priority: 2
-, 
-2) 
-	Arrival: 14
-	service_time: 5
-	waiting_time: 0
-	timeout: 6
-	priority: 2
-, 
-3) 
-	Arrival: 16
-	service_time: 1
-	waiting_time: 0
-	timeout: 20
-	priority: 3
-, 
-4) 
-	Arrival: 31
-	service_time: 6
-	waiting_time: 0
-	timeout: 1
-	priority: 1
-, 
-5) 
-	Arrival: 31
-	service_time: 3
-	waiting_time: 0
-	timeout: 28
-	priority: 3
-]
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 2
-	waiting_time: 0
-	timeout: 5
-	priority: 3
-, 
-2) 
-	Arrival: 7
-	service_time: 20
-	waiting_time: 0
-	timeout: 5
-	priority: 3
-, 
-3) 
-	Arrival: 8
-	service_time: 12
-	waiting_time: 0
-	timeout: 51
-	priority: 2
-, 
-4) 
-	Arrival: 28
-	service_time: 21
-	waiting_time: 0
-	timeout: 14
-	priority: 3
-, 
-5) 
-	Arrival: 35
-	service_time: 10
-	waiting_time: 0
-	timeout: 7
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [7]  [ARRIVAL] Task 2 has arrived!
-[INFO] [7]  Executing task 1
-[INFO] [8]  [ARRIVAL] Task 3 has arrived!
-[INFO] [8]  Executing task 3
-[INFO] [9]  Executing task 3
-[INFO] [10]  Executing task 3
-[INFO] [11]  Executing task 3
-[INFO] [12]  Executing task 3
-[INFO] [13]  Executing task 3
-[INFO] [14]  Executing task 3
-[INFO] [15]  Executing task 3
-[INFO] [16]  Executing task 3
-[INFO] [17]  Executing task 3
-[INFO] [18]  Executing task 3
-[INFO] [19]  Executing task 3
-[INFO] [20]  Executing task 2
-[INFO] [28]  [ARRIVAL] Task 4 has arrived!
-[INFO] [28]  Executing task 2
-[INFO] [29]  Executing task 2
-[INFO] [30]  Executing task 2
-[INFO] [31]  Executing task 2
-[INFO] [32]  Executing task 2
-[INFO] [33]  Executing task 2
-[INFO] [34]  Executing task 2
-[INFO] [35]  [ARRIVAL] Task 5 has arrived!
-[INFO] [35]  Executing task 2
-[INFO] [36]  Executing task 2
-[INFO] [37]  Executing task 2
-[INFO] [38]  Executing task 2
-[INFO] [39]  Executing task 2
-[INFO] [40]  Executing task 2
-[INFO] [41]  Executing task 2
-[INFO] [42]  Executing task 2
-[INFO] [43]  Executing task 2
-[INFO] [44]  Executing task 2
-[INFO] [45]  Executing task 2
-[INFO] [46]  Executing task 2
-[INFO] [47]  Executing task 5
-[INFO] [48]  Executing task 5
-[INFO] [49]  Executing task 5
-[INFO] [50]  Executing task 5
-[INFO] [51]  Executing task 5
-[INFO] [52]  Executing task 5
-[INFO] [53]  Executing task 5
-[INFO] [54]  Executing task 5
-[INFO] [55]  Executing task 5
-[INFO] [56]  Executing task 5
-[INFO] [57]  Executing task 4
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 2
-	waiting_time: 0
-	timeout: 5
-	priority: 3
-, 
-2) 
-	Arrival: 7
-	service_time: 20
-	waiting_time: 0
-	timeout: 5
-	priority: 3
-, 
-3) 
-	Arrival: 8
-	service_time: 12
-	waiting_time: 0
-	timeout: 51
-	priority: 2
-, 
-4) 
-	Arrival: 28
-	service_time: 21
-	waiting_time: 0
-	timeout: 14
-	priority: 3
-, 
-5) 
-	Arrival: 35
-	service_time: 10
-	waiting_time: 0
-	timeout: 7
-	priority: 3
-]
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 9
-	waiting_time: 0
-	timeout: 10
-	priority: 3
-, 
-2) 
-	Arrival: 5
-	service_time: 2
-	waiting_time: 0
-	timeout: 6
-	priority: 3
-, 
-3) 
-	Arrival: 18
-	service_time: 4
-	waiting_time: 0
-	timeout: 11
-	priority: 3
-, 
-4) 
-	Arrival: 29
-	service_time: 7
-	waiting_time: 0
-	timeout: 3
-	priority: 3
-, 
-5) 
-	Arrival: 36
-	service_time: 2
-	waiting_time: 0
-	timeout: 27
-	priority: 3
-]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [5]  [ARRIVAL] Task 2 has arrived!
-[INFO] [5]  Executing task 1
-[INFO] [6]  Executing task 1
-[INFO] [7]  Executing task 1
-[INFO] [8]  Executing task 1
-[INFO] [9]  Executing task 1
-[INFO] [10]  Executing task 1
-[INFO] [11]  Executing task 1
-[INFO] [12]  Executing task 1
-[INFO] [13]  Executing task 2
-[INFO] [18]  [ARRIVAL] Task 3 has arrived!
-[INFO] [18]  Executing task 2
-[INFO] [19]  Executing task 3
-[INFO] [29]  [ARRIVAL] Task 4 has arrived!
-[INFO] [29]  Executing task 3
-[INFO] [30]  Executing task 3
-[INFO] [31]  Executing task 3
-[INFO] [32]  Executing task 4
-[INFO] [36]  [ARRIVAL] Task 5 has arrived!
-[INFO] [36]  Executing task 4
-[INFO] [37]  Executing task 4
-[INFO] [38]  Executing task 4
-[INFO] [39]  Executing task 4
-[INFO] [40]  Executing task 4
-[INFO] [41]  Executing task 4
-[INFO] [42]  Executing task 5
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 9
-	waiting_time: 3
-	timeout: 10
-	priority: 3
-, 
-2) 
-	Arrival: 5
-	service_time: 2
-	waiting_time: 11
-	timeout: 6
-	priority: 3
-, 
-3) 
-	Arrival: 18
-	service_time: 4
-	waiting_time: 9
-	timeout: 11
-	priority: 3
-, 
-4) 
-	Arrival: 29
-	service_time: 7
-	waiting_time: 5
-	timeout: 3
-	priority: 3
-, 
-5) 
-	Arrival: 36
-	service_time: 2
-	waiting_time: 0
-	timeout: 27
-	priority: 3
-]
-[INFO] Tasks: 
-[
-1) 
-	Arrival: 0
-	service_time: 16
-	timeout: 24
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-2) 
-	Arrival: 5
-	service_time: 6
-	timeout: 5
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 37
-	service_time: 6
-	timeout: 32
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 49
-	service_time: 5
-	timeout: 22
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 58
-	service_time: 4
-	timeout: 13
-	priority: 1
-	waiting_time: 0
-	exit time: inf]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [5]  [ARRIVAL] Task 2 has arrived!
-[INFO] [5]  Executing task 1
-[INFO] [6]  Executing task 1
-[INFO] [7]  Executing task 1
-[INFO] [8]  Executing task 1
-[INFO] [9]  Executing task 1
-[INFO] [10]  Executing task 1
-[INFO] [11]  Executing task 1
-[INFO] [12]  Executing task 1
-[INFO] [13]  Executing task 1
-[INFO] [14]  Executing task 1
-[INFO] [15]  Executing task 1
-[INFO] [16]  Executing task 1
-[INFO] [17]  Executing task 1
-[INFO] [18]  Executing task 1
-[INFO] [19]  Executing task 1
-[INFO] [20]  Executing task 2
-[INFO] [37]  [ARRIVAL] Task 3 has arrived!
-[INFO] [37]  Executing task 2
-[INFO] [38]  Executing task 2
-[INFO] [39]  Executing task 2
-[INFO] [40]  Executing task 2
-[INFO] [41]  Executing task 2
-[INFO] [42]  Executing task 3
-[INFO] [49]  [ARRIVAL] Task 4 has arrived!
-[INFO] [49]  Executing task 3
-[INFO] [50]  Executing task 3
-[INFO] [51]  Executing task 3
-[INFO] [52]  Executing task 3
-[INFO] [53]  Executing task 3
-[INFO] [54]  Executing task 4
-[INFO] [58]  [ARRIVAL] Task 5 has arrived!
-[INFO] [58]  Executing task 4
-[INFO] [59]  Executing task 4
-[INFO] [60]  Executing task 4
-[INFO] [61]  Executing task 4
-[INFO] [62]  Executing task 5
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 16
-	timeout: 24
-	priority: 2
-	waiting_time: 3
-	exit time: 19, 
-2) 
-	Arrival: 5
-	service_time: 6
-	timeout: 5
-	priority: 3
-	waiting_time: 30
-	exit time: 41, 
-3) 
-	Arrival: 37
-	service_time: 6
-	timeout: 32
-	priority: 2
-	waiting_time: 10
-	exit time: 53, 
-4) 
-	Arrival: 49
-	service_time: 5
-	timeout: 22
-	priority: 2
-	waiting_time: 7
-	exit time: 61, 
-5) 
-	Arrival: 58
-	service_time: 4
-	timeout: 13
-	priority: 1
-	waiting_time: 0
-	exit time: inf]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [19]  [ARRIVAL] Task 2 has arrived!
-[INFO] [19]  Executing task 1
-[INFO] [20]  Executing task 1
-[INFO] [21]  Executing task 1
-[INFO] [22]  Executing task 1
-[INFO] [23]  Executing task 1
-[INFO] [24]  Executing task 1
-[INFO] [25]  Executing task 1
-[INFO] [26]  Executing task 1
-[INFO] [27]  Executing task 2
-[INFO] [63]  [ARRIVAL] Task 3 has arrived!
-[INFO] [63]  Executing task 2
-[INFO] [64]  Executing task 2
-[INFO] [65]  Executing task 2
-[INFO] [66]  Executing task 2
-[INFO] [67]  Executing task 2
-[INFO] [68]  Executing task 2
-[INFO] [69]  Executing task 2
-[INFO] [70]  Executing task 2
-[INFO] [71]  Executing task 3
-[INFO] [72]  [ARRIVAL] Task 4 has arrived!
-[INFO] [72]  Executing task 4
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [1]  Executing task 1
-[INFO] [19]  [ARRIVAL] Task 2 has arrived!
-[INFO] [19]  Executing task 2
-[INFO] [20]  Executing task 2
-[INFO] [21]  [ARRIVAL] Task 3 has arrived!
-[INFO] [21]  Executing task 2
-[INFO] [22]  Executing task 2
-[INFO] [23]  Executing task 2
-[INFO] [24]  Executing task 2
-[INFO] [25]  Executing task 2
-[INFO] [26]  [ARRIVAL] Task 4 has arrived!
-[INFO] [26]  Executing task 2
-[INFO] [27]  Executing task 2
-[INFO] [28]  Executing task 2
-[INFO] [29]  Executing task 2
-[INFO] [30]  Executing task 2
-[INFO] [31]  [ARRIVAL] Task 5 has arrived!
-[INFO] [31]  Executing task 5
-[INFO] [32]  Executing task 5
-[INFO] [33]  Executing task 5
-[INFO] [34]  Executing task 4
-[INFO] [35]  Executing task 4
-[INFO] [36]  Executing task 4
-[INFO] [37]  Executing task 4
-[INFO] [38]  Executing task 4
-[INFO] [39]  Executing task 4
-[INFO] [40]  Executing task 4
-[INFO] [41]  Executing task 4
-[INFO] [42]  Executing task 4
-[INFO] [43]  Executing task 4
-[INFO] [44]  Executing task 4
-[INFO] [45]  Executing task 4
-[INFO] [46]  Executing task 4
-[INFO] [47]  Executing task 4
-[INFO] [48]  Executing task 4
-[INFO] [49]  Executing task 4
-[INFO] [50]  Executing task 4
-[INFO] [51]  Executing task 4
-[INFO] [52]  Executing task 4
-[INFO] [53]  Executing task 4
-[INFO] [54]  Executing task 4
-[INFO] [55]  Executing task 4
-[INFO] [56]  Executing task 4
-[INFO] [57]  Executing task 4
-[INFO] [58]  Executing task 3
-[INFO] [59]  Executing task 3
-[INFO] [60]  Executing task 3
-[INFO] [61]  Executing task 3
-[INFO] [62]  Executing task 3
-[INFO] [63]  Executing task 3
-[INFO] [64]  Executing task 3
-[INFO] [65]  Executing task 3
-[INFO] [66]  Executing task 3
-[INFO] [67]  Executing task 3
-[INFO] [68]  Executing task 3
-[INFO] [69]  Executing task 3
-[INFO] [70]  Executing task 3
-[INFO] [71]  Executing task 3
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 2
-	timeout: 8
-	priority: 2
-	waiting_time: -1
-	exit time: 1, 
-2) 
-	Arrival: 19
-	service_time: 12
-	timeout: 0
-	priority: 3
-	waiting_time: -1
-	exit time: 30, 
-3) 
-	Arrival: 21
-	service_time: 14
-	timeout: 0
-	priority: 2
-	waiting_time: 36
-	exit time: 71, 
-4) 
-	Arrival: 26
-	service_time: 24
-	timeout: 5
-	priority: 3
-	waiting_time: 7
-	exit time: 57, 
-5) 
-	Arrival: 31
-	service_time: 3
-	timeout: 3
-	priority: 2
-	waiting_time: -1
-	exit time: 33]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [1]  Executing task 1
-[INFO] [2]  Executing task 1
-[INFO] [3]  [ARRIVAL] Task 2 has arrived!
-[INFO] [3]  Executing task 1
-[INFO] [4]  Executing task 1
-[INFO] [5]  [ARRIVAL] Task 3 has arrived!
-[INFO] [5]  Executing task 1
-[INFO] [6]  Executing task 1
-[INFO] [7]  Executing task 1
-[INFO] [8]  Executing task 1
-[INFO] [9]  Executing task 1
-[INFO] [10]  Executing task 1
-[INFO] [11]  Executing task 1
-[INFO] [12]  [ARRIVAL] Task 4 has arrived!
-[INFO] [12]  Executing task 1
-[INFO] [13]  Executing task 1
-[INFO] [14]  [ARRIVAL] Task 5 has arrived!
-[INFO] [14]  Executing task 1
-[INFO] [15]  Executing task 1
-[INFO] [16]  Executing task 1
-[INFO] [17]  Executing task 1
-[INFO] [18]  Executing task 1
-[INFO] [19]  Executing task 1
-[INFO] [20]  Executing task 1
-[INFO] [21]  Executing task 1
-[INFO] [22]  Executing task 1
-[INFO] [23]  Executing task 1
-[INFO] [24]  Executing task 1
-[INFO] [25]  Executing task 1
-[INFO] [26]  Executing task 1
-[INFO] [27]  Executing task 1
-[INFO] [28]  Executing task 1
-[INFO] [29]  Executing task 1
-[INFO] [30]  Executing task 1
-[INFO] [31]  Executing task 1
-[INFO] [32]  Executing task 1
-[INFO] [33]  Executing task 1
-[INFO] [34]  Executing task 1
-[INFO] [35]  Executing task 5
-[INFO] [36]  Executing task 5
-[INFO] [37]  Executing task 5
-[INFO] [38]  Executing task 5
-[INFO] [39]  Executing task 5
-[INFO] [40]  Executing task 5
-[INFO] [41]  Executing task 5
-[INFO] [42]  Executing task 5
-[INFO] [43]  Executing task 5
-[INFO] [44]  Executing task 5
-[INFO] [45]  Executing task 5
-[INFO] [46]  Executing task 5
-[INFO] [47]  Executing task 5
-[INFO] [48]  Executing task 5
-[INFO] [49]  Executing task 5
-[INFO] [50]  Executing task 5
-[INFO] [51]  Executing task 5
-[INFO] [52]  Executing task 5
-[INFO] [53]  Executing task 5
-[INFO] [54]  Executing task 5
-[INFO] [55]  Executing task 5
-[INFO] [56]  Executing task 5
-[INFO] [57]  Executing task 5
-[INFO] [58]  Executing task 5
-[INFO] [59]  Executing task 5
-[INFO] [60]  Executing task 5
-[INFO] [61]  Executing task 5
-[INFO] [62]  Executing task 4
-[INFO] [63]  Executing task 4
-[INFO] [64]  Executing task 4
-[INFO] [65]  Executing task 4
-[INFO] [66]  Executing task 4
-[INFO] [67]  Executing task 4
-[INFO] [68]  Executing task 4
-[INFO] [69]  Executing task 4
-[INFO] [70]  Executing task 4
-[INFO] [71]  Executing task 4
-[INFO] [72]  Executing task 4
-[INFO] [73]  Executing task 4
-[INFO] [74]  Executing task 4
-[INFO] [75]  Executing task 3
-[INFO] [76]  Executing task 3
-[INFO] [77]  Executing task 3
-[INFO] [78]  Executing task 3
-[INFO] [79]  Executing task 3
-[INFO] [80]  Executing task 3
-[INFO] [81]  Executing task 3
-[INFO] [82]  Executing task 3
-[INFO] [83]  Executing task 3
-[INFO] [84]  Executing task 3
-[INFO] [85]  Executing task 3
-[INFO] [86]  Executing task 3
-[INFO] [87]  Executing task 3
-[INFO] [88]  Executing task 3
-[INFO] [89]  Executing task 3
-[INFO] [90]  Executing task 3
-[INFO] [91]  Executing task 3
-[INFO] [92]  Executing task 3
-[INFO] [93]  Executing task 3
-[INFO] [94]  Executing task 2
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 35
-	timeout: 22
-	priority: 3
-	waiting_time: -1
-	exit time: 34, 
-2) 
-	Arrival: 3
-	service_time: 1
-	timeout: 4
-	priority: 3
-	waiting_time: 90
-	exit time: 94, 
-3) 
-	Arrival: 5
-	service_time: 19
-	timeout: 2
-	priority: 2
-	waiting_time: 69
-	exit time: 93, 
-4) 
-	Arrival: 12
-	service_time: 13
-	timeout: 21
-	priority: 3
-	waiting_time: 49
-	exit time: 74, 
-5) 
-	Arrival: 14
-	service_time: 27
-	timeout: 2
-	priority: 3
-	waiting_time: 20
-	exit time: 61]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [Departure] Task 1 has left
-[INFO] [5]  [ARRIVAL] Task 2 has arrived!
-[INFO] [5]  Executing task 2
-[INFO] [6]  Executing task 2
-[INFO] [7]  Executing task 2
-[INFO] [8]  Executing task 2
-[INFO] [9]  Executing task 2
-[INFO] [10]  Executing task 2
-[INFO] [11]  Executing task 2
-[INFO] [Departure] Task 2 has left
-[INFO] [56]  [ARRIVAL] Task 3 has arrived!
-[INFO] [56]  Executing task 3
-[INFO] [57]  Executing task 3
-[INFO] [Departure] Task 3 has left
-[INFO] [60]  [ARRIVAL] Task 4 has arrived!
-[INFO] [60]  Executing task 4
-[INFO] [61]  Executing task 4
-[INFO] [Departure] Task 4 has left
-[INFO] [77]  [ARRIVAL] Task 5 has arrived!
-[INFO] [77]  Executing task 5
-[INFO] [78]  Executing task 5
-[INFO] [79]  Executing task 5
-[INFO] [80]  Executing task 5
-[INFO] [81]  Executing task 5
-[INFO] [82]  Executing task 5
-[INFO] [83]  Executing task 5
-[INFO] [Departure] Task 5 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
 	Arrival: 0
 	service_time: 1
-	timeout: 1
-	priority: 2
-	waiting_time: 0
-	exit time: 0, 
-2) 
-	Arrival: 5
-	service_time: 7
 	timeout: 6
 	priority: 3
-	waiting_time: 0
-	exit time: 11, 
-3) 
-	Arrival: 56
-	service_time: 2
-	timeout: 3
-	priority: 3
-	waiting_time: 0
-	exit time: 57, 
-4) 
-	Arrival: 60
-	service_time: 2
-	timeout: 9
-	priority: 3
-	waiting_time: 0
-	exit time: 61, 
+	waiting_time: 26
+	exit time: 25, 
 5) 
-	Arrival: 77
-	service_time: 7
-	timeout: 4
-	priority: 3
-	waiting_time: 0
-	exit time: 83]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  Executing task 1
-[INFO] [1]  Executing task 1
-[INFO] [2]  Executing task 1
-[INFO] [3]  Executing task 1
-[INFO] [Departure] Task 1 has left
-[INFO] [11]  [ARRIVAL] Task 2 has arrived!
-[INFO] [11]  Executing task 2
-[INFO] [12]  Executing task 2
-[INFO] [13]  Executing task 2
-[INFO] [14]  Executing task 2
-[INFO] [15]  [ARRIVAL] Task 3 has arrived!
-[INFO] [15]  Executing task 2
-[INFO] [16]  [ARRIVAL] Task 4 has arrived!
-[INFO] [16]  Executing task 2
-[INFO] [17]  Executing task 2
-[INFO] [18]  Executing task 2
-[INFO] [19]  Executing task 2
-[INFO] [20]  Executing task 2
-[INFO] [21]  Executing task 2
-[INFO] [22]  Executing task 2
-[INFO] [23]  Executing task 2
-[INFO] [24]  Executing task 2
-[INFO] [25]  Executing task 2
-[INFO] [26]  Executing task 2
-[INFO] [27]  [ARRIVAL] Task 5 has arrived!
-[INFO] [27]  Executing task 2
-[INFO] [28]  Executing task 2
-[INFO] [29]  Executing task 2
-[INFO] [30]  Executing task 2
-[INFO] [31]  Executing task 2
-[INFO] [32]  Executing task 2
-[INFO] [33]  Executing task 2
-[INFO] [34]  Executing task 2
-[INFO] [35]  Executing task 2
-[INFO] [36]  Executing task 2
-[INFO] [37]  Executing task 2
-[INFO] [38]  Executing task 2
-[INFO] [39]  Executing task 2
-[INFO] [40]  Executing task 2
-[INFO] [41]  Executing task 2
-[INFO] [42]  Executing task 2
-[INFO] [43]  Executing task 2
-[INFO] [44]  Executing task 2
-[INFO] [45]  Executing task 2
-[INFO] [46]  Executing task 2
-[INFO] [47]  Executing task 2
-[INFO] [48]  Executing task 2
-[INFO] [49]  Executing task 2
-[INFO] [Departure] Task 2 has left
-[INFO] [50]  Executing task 5
-[INFO] [51]  Executing task 5
-[INFO] [52]  Executing task 5
-[INFO] [53]  Executing task 5
-[INFO] [54]  Executing task 5
-[INFO] [55]  Executing task 5
-[INFO] [56]  Executing task 5
-[INFO] [57]  Executing task 5
-[INFO] [58]  Executing task 5
-[INFO] [59]  Executing task 5
-[INFO] [60]  Executing task 5
-[INFO] [Departure] Task 5 has left
-[INFO] [61]  Executing task 4
-[INFO] [62]  Executing task 4
-[INFO] [63]  Executing task 4
-[INFO] [64]  Executing task 4
-[INFO] [65]  Executing task 4
-[INFO] [66]  Executing task 4
-[INFO] [67]  Executing task 4
-[INFO] [68]  Executing task 4
-[INFO] [69]  Executing task 4
-[INFO] [Departure] Task 4 has left
-[INFO] [70]  Executing task 3
-[INFO] [71]  Executing task 3
-[INFO] [72]  Executing task 3
-[INFO] [73]  Executing task 3
-[INFO] [74]  Executing task 3
-[INFO] [75]  Executing task 3
-[INFO] [76]  Executing task 3
-[INFO] [77]  Executing task 3
-[INFO] [78]  Executing task 3
-[INFO] [79]  Executing task 3
-[INFO] [80]  Executing task 3
-[INFO] [81]  Executing task 3
-[INFO] [82]  Executing task 3
-[INFO] [83]  Executing task 3
-[INFO] [84]  Executing task 3
-[INFO] [85]  Executing task 3
-[INFO] [86]  Executing task 3
-[INFO] [87]  Executing task 3
-[INFO] [Departure] Task 3 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
 	Arrival: 0
 	service_time: 4
-	timeout: 13
+	timeout: 36
 	priority: 3
-	waiting_time: 0
-	exit time: 3, 
-2) 
-	Arrival: 11
-	service_time: 39
-	timeout: 4
-	priority: 2
-	waiting_time: 0
-	exit time: 49, 
-3) 
-	Arrival: 15
-	service_time: 18
-	timeout: 8
-	priority: 3
-	waiting_time: 55
-	exit time: 87, 
-4) 
-	Arrival: 16
-	service_time: 9
-	timeout: 5
-	priority: 3
-	waiting_time: 45
-	exit time: 69, 
-5) 
-	Arrival: 27
-	service_time: 11
-	timeout: 10
-	priority: 3
-	waiting_time: 23
-	exit time: 60]
+	waiting_time: 22
+	exit time: 24]
 [INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [ARRIVAL] Task 2 has arrived!
-[INFO] [0]  Executing task 2
-[INFO] [1]  Executing task 2
-[INFO] [2]  Executing task 2
-[INFO] [3]  Executing task 2
-[INFO] [4]  Executing task 2
-[INFO] [5]  Executing task 2
-[INFO] [6]  Executing task 2
-[INFO] [7]  Executing task 2
-[INFO] [8]  [ARRIVAL] Task 3 has arrived!
-[INFO] [8]  Executing task 2
-[INFO] [Departure] Task 2 has left
-[INFO] [9]  Executing task 3
-[INFO] [10]  Executing task 3
-[INFO] [11]  Executing task 3
-[INFO] [12]  Executing task 3
-[INFO] [13]  Executing task 3
-[INFO] [14]  Executing task 3
-[INFO] [15]  [ARRIVAL] Task 4 has arrived!
-[INFO] [15]  [ARRIVAL] Task 5 has arrived!
-[INFO] [15]  Executing task 3
-[INFO] [16]  Executing task 3
-[INFO] [Departure] Task 3 has left
-[INFO] [17]  Executing task 5
-[INFO] [18]  Executing task 5
-[INFO] [Departure] Task 5 has left
-[INFO] [19]  Executing task 4
-[INFO] [Departure] Task 4 has left
-[INFO] [20]  Executing task 1
-[INFO] [21]  Executing task 1
-[INFO] [22]  Executing task 1
-[INFO] [23]  Executing task 1
-[INFO] [24]  Executing task 1
-[INFO] [Departure] Task 1 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 5
-	timeout: 1
-	priority: 3
-	waiting_time: 20
-	exit time: 24, 
-2) 
-	Arrival: 0
-	service_time: 9
-	timeout: 11
-	priority: 3
-	waiting_time: 0
-	exit time: 8, 
-3) 
-	Arrival: 8
-	service_time: 8
-	timeout: 7
-	priority: 3
-	waiting_time: 1
-	exit time: 16, 
-4) 
-	Arrival: 15
-	service_time: 1
-	timeout: 23
-	priority: 3
-	waiting_time: 4
-	exit time: 19, 
-5) 
-	Arrival: 15
-	service_time: 2
-	timeout: 3
-	priority: 3
-	waiting_time: 2
-	exit time: 18]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [ARRIVAL] Task 2 has arrived!
 [INFO] [0]  [Execution] task 1
-[INFO] [0]  [Departure] Task 1 has left
-[INFO] [1]  [Execution] task 2
-[INFO] [1]  [Departure] Task 2 has left
-[INFO] [4]  [ARRIVAL] Task 3 has arrived!
-[INFO] [4]  [Execution] task 3
-[INFO] [5]  [Execution] task 3
-[INFO] [6]  [Execution] task 3
-[INFO] [7]  [Execution] task 3
-[INFO] [8]  [ARRIVAL] Task 4 has arrived!
-[INFO] [8]  [Execution] task 3
-[INFO] [9]  [Execution] task 3
-[INFO] [10]  [Execution] task 3
-[INFO] [11]  [ARRIVAL] Task 5 has arrived!
-[INFO] [11]  [Execution] task 3
-[INFO] [12]  [Execution] task 3
-[INFO] [13]  [Execution] task 3
-[INFO] [14]  [Execution] task 3
-[INFO] [15]  [Execution] task 3
-[INFO] [15]  [Departure] Task 3 has left
-[INFO] [16]  [Execution] task 5
-[INFO] [16]  [Departure] Task 5 has left
-[INFO] [17]  [Execution] task 4
-[INFO] [18]  [Execution] task 4
-[INFO] [18]  [Departure] Task 4 has left
+[INFO] [1]  [Departure] Task 1 has left
+[INFO] [3]  [ARRIVAL] Task 2 has arrived!
+[INFO] [3]  [Execution] task 2
+[INFO] [14]  [Departure] Task 2 has left
+[INFO] [42]  [ARRIVAL] Task 3 has arrived!
+[INFO] [42]  [Execution] task 3
+[INFO] [52]  [ARRIVAL] Task 4 has arrived!
+[INFO] [62]  [Departure] Task 3 has left
+[INFO] [62]  [Execution] task 4
+[INFO] [68]  [ARRIVAL] Task 5 has arrived!
+[INFO] [69]  [Departure] Task 4 has left
+[INFO] [69]  [Execution] task 5
+[INFO] [85]  [Departure] Task 5 has left
 [INFO] 
 
 
@@ -2367,845 +76,714 @@
 1) 
 	Arrival: 0
 	service_time: 1
-	timeout: 7
-	priority: 1
-	waiting_time: 0
-	exit time: 0, 
-2) 
-	Arrival: 0
-	service_time: 1
-	timeout: 7
+	timeout: 2
 	priority: 3
 	waiting_time: 1
-	exit time: 1, 
-3) 
-	Arrival: 4
-	service_time: 12
+	exit time: 0, 
+2) 
+	Arrival: 3
+	service_time: 11
 	timeout: 1
 	priority: 3
-	waiting_time: 0
-	exit time: 15, 
-4) 
-	Arrival: 8
-	service_time: 2
+	waiting_time: 1
+	exit time: 13, 
+3) 
+	Arrival: 42
+	service_time: 20
 	timeout: 12
 	priority: 3
-	waiting_time: 9
-	exit time: 18, 
-5) 
-	Arrival: 11
-	service_time: 0
-	timeout: 1
+	waiting_time: 1
+	exit time: 61, 
+4) 
+	Arrival: 52
+	service_time: 7
+	timeout: 5
 	priority: 2
-	waiting_time: 5
-	exit time: 16]
+	waiting_time: 11
+	exit time: 68, 
+5) 
+	Arrival: 68
+	service_time: 16
+	timeout: 1
+	priority: 1
+	waiting_time: 2
+	exit time: 84]
 [INFO] [0]  [ARRIVAL] Task 1 has arrived!
 [INFO] [0]  [Execution] task 1
-[INFO] [1]  [Execution] task 1
-[INFO] [2]  [Execution] task 1
-[INFO] [3]  [Execution] task 1
-[INFO] [4]  [Execution] task 1
-[INFO] [5]  [Execution] task 1
-[INFO] [6]  [Execution] task 1
-[INFO] [7]  [Execution] task 1
-[INFO] [8]  [Execution] task 1
-[INFO] [9]  [Execution] task 1
-[INFO] [10]  [Execution] task 1
-[INFO] [11]  [Execution] task 1
-[INFO] [12]  [Departure] Task 1 has left
-[INFO] [25]  [ARRIVAL] Task 2 has arrived!
-[INFO] [25]  [Execution] task 2
-[INFO] [26]  [Execution] task 2
-[INFO] [27]  [Execution] task 2
-[INFO] [28]  [Departure] Task 2 has left
-[INFO] [44]  [ARRIVAL] Task 3 has arrived!
-[INFO] [44]  [Execution] task 3
-[INFO] [45]  [Execution] task 3
-[INFO] [46]  [Execution] task 3
-[INFO] [47]  [Execution] task 3
-[INFO] [48]  [Execution] task 3
-[INFO] [49]  [Execution] task 3
-[INFO] [50]  [Execution] task 3
-[INFO] [51]  [Execution] task 3
-[INFO] [52]  [Execution] task 3
-[INFO] [53]  [Execution] task 3
-[INFO] [54]  [Execution] task 3
-[INFO] [55]  [Execution] task 3
-[INFO] [56]  [Execution] task 3
-[INFO] [57]  [Execution] task 3
-[INFO] [58]  [Departure] Task 3 has left
-[INFO] [59]  [ARRIVAL] Task 4 has arrived!
-[INFO] [59]  [Execution] task 4
-[INFO] [60]  [Execution] task 4
-[INFO] [61]  [Execution] task 4
-[INFO] [62]  [Execution] task 4
+[INFO] [8]  [ARRIVAL] Task 2 has arrived!
+[INFO] [10]  [Departure] Task 1 has left
+[INFO] [10]  [Execution] task 2
+[INFO] [53]  [ARRIVAL] Task 3 has arrived!
+[INFO] [54]  [ARRIVAL] Task 4 has arrived!
+[INFO] [63]  [Departure] Task 2 has left
 [INFO] [63]  [Execution] task 4
-[INFO] [64]  [Departure] Task 4 has left
-[INFO] [69]  [ARRIVAL] Task 5 has arrived!
-[INFO] [69]  [Execution] task 5
+[INFO] [79]  [ARRIVAL] Task 5 has arrived!
+[INFO] [83]  [Departure] Task 4 has left
+[INFO] [83]  [Execution] task 5
+[INFO] [86]  [Departure] Task 5 has left
+[INFO] [86]  [Execution] task 3
+[INFO] [91]  [Departure] Task 3 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 10
+	timeout: 65
+	priority: 3
+	waiting_time: 1
+	exit time: 9, 
+2) 
+	Arrival: 8
+	service_time: 53
+	timeout: 126
+	priority: 3
+	waiting_time: 3
+	exit time: 62, 
+3) 
+	Arrival: 53
+	service_time: 5
+	timeout: 4
+	priority: 3
+	waiting_time: 34
+	exit time: 90, 
+4) 
+	Arrival: 54
+	service_time: 20
+	timeout: 174
+	priority: 2
+	waiting_time: 10
+	exit time: 82, 
+5) 
+	Arrival: 79
+	service_time: 3
+	timeout: 281
+	priority: 3
+	waiting_time: 5
+	exit time: 85]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [5]  [Departure] Task 1 has left
+[INFO] [8]  [ARRIVAL] Task 2 has arrived!
+[INFO] [8]  [ARRIVAL] Task 3 has arrived!
+[INFO] [8]  [Execution] task 3
+[INFO] [9]  [Departure] Task 3 has left
+[INFO] [9]  [Execution] task 2
+[INFO] [13]  [Departure] Task 2 has left
+[INFO] [20]  [ARRIVAL] Task 4 has arrived!
+[INFO] [20]  [Execution] task 4
+[INFO] [22]  [Departure] Task 4 has left
+[INFO] [25]  [ARRIVAL] Task 5 has arrived!
+[INFO] [25]  [Execution] task 5
+[INFO] [36]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 5
+	timeout: 37
+	priority: 3
+	waiting_time: 1
+	exit time: 4, 
+2) 
+	Arrival: 8
+	service_time: 4
+	timeout: 40
+	priority: 3
+	waiting_time: 2
+	exit time: 12, 
+3) 
+	Arrival: 8
+	service_time: 0
+	timeout: 70
+	priority: 3
+	waiting_time: 1
+	exit time: 8, 
+4) 
+	Arrival: 20
+	service_time: 2
+	timeout: 5
+	priority: 3
+	waiting_time: 1
+	exit time: 21, 
+5) 
+	Arrival: 25
+	service_time: 11
+	timeout: 65
+	priority: 3
+	waiting_time: 1
+	exit time: 35]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [3]  [ARRIVAL] Task 2 has arrived!
+[INFO] [8]  [Departure] Task 1 has left
+[INFO] [8]  [Execution] task 2
+[INFO] [23]  [ARRIVAL] Task 3 has arrived!
+[INFO] [25]  [Departure] Task 2 has left
+[INFO] [25]  [Execution] task 3
+[INFO] [33]  [ARRIVAL] Task 4 has arrived!
+[INFO] [48]  [ARRIVAL] Task 5 has arrived!
+[INFO] [77]  [Departure] Task 3 has left
+[INFO] [77]  [Execution] task 5
+[INFO] [83]  [Departure] Task 5 has left
+[INFO] [83]  [Execution] task 4
+[INFO] [90]  [Departure] Task 4 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 8
+	timeout: 178
+	priority: 3
+	waiting_time: 1
+	exit time: 7, 
+2) 
+	Arrival: 3
+	service_time: 17
+	timeout: 1
+	priority: 3
+	waiting_time: 6
+	exit time: 24, 
+3) 
+	Arrival: 23
+	service_time: 52
+	timeout: 14
+	priority: 3
+	waiting_time: 3
+	exit time: 76, 
+4) 
+	Arrival: 33
+	service_time: 7
+	timeout: 266
+	priority: 3
+	waiting_time: 51
+	exit time: 89, 
+5) 
+	Arrival: 48
+	service_time: 6
+	timeout: 92
+	priority: 3
+	waiting_time: 30
+	exit time: 82]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [5]  [Departure] Task 1 has left
+[INFO] [9]  [ARRIVAL] Task 2 has arrived!
+[INFO] [9]  [Execution] task 2
+[INFO] [11]  [Departure] Task 2 has left
+[INFO] [38]  [ARRIVAL] Task 3 has arrived!
+[INFO] [38]  [Execution] task 3
+[INFO] [44]  [ARRIVAL] Task 4 has arrived!
+[INFO] [50]  [ARRIVAL] Task 5 has arrived!
+[INFO] [61]  [Departure] Task 3 has left
+[INFO] [61]  [Execution] task 5
+[INFO] [68]  [Departure] Task 5 has left
+[INFO] [68]  [Execution] task 4
+[INFO] [73]  [Departure] Task 4 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 5
+	timeout: 100
+	priority: 3
+	waiting_time: 1
+	exit time: 12345, 
+2) 
+	Arrival: 9
+	service_time: 2
+	timeout: 22
+	priority: 2
+	waiting_time: 1
+	exit time: 12345, 
+3) 
+	Arrival: 38
+	service_time: 23
+	timeout: 39
+	priority: 3
+	waiting_time: 1
+	exit time: 12345, 
+4) 
+	Arrival: 44
+	service_time: 5
+	timeout: 4
+	priority: 3
+	waiting_time: 25
+	exit time: 12345, 
+5) 
+	Arrival: 50
+	service_time: 7
+	timeout: 92
+	priority: 3
+	waiting_time: 12
+	exit time: 12345]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [1]  [Departure] Task 1 has left
+[INFO] [7]  [ARRIVAL] Task 2 has arrived!
+[INFO] [7]  [Execution] task 2
+[INFO] [10]  [Departure] Task 2 has left
+[INFO] [49]  [ARRIVAL] Task 3 has arrived!
+[INFO] [49]  [Execution] task 3
+[INFO] [50]  [Departure] Task 3 has left
+[INFO] [55]  [ARRIVAL] Task 4 has arrived!
+[INFO] [55]  [Execution] task 4
+[INFO] [56]  [ARRIVAL] Task 5 has arrived!
+[INFO] [59]  [Departure] Task 4 has left
+[INFO] [59]  [Execution] task 5
+[INFO] [64]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 1
+	timeout: 85
+	priority: 2
+	waiting_time: 1
+	exit time: 0, 
+2) 
+	Arrival: 7
+	service_time: 3
+	timeout: 55
+	priority: 3
+	waiting_time: 1
+	exit time: 9, 
+3) 
+	Arrival: 49
+	service_time: 1
+	timeout: 191
+	priority: 3
+	waiting_time: 1
+	exit time: 49, 
+4) 
+	Arrival: 55
+	service_time: 4
+	timeout: 93
+	priority: 3
+	waiting_time: 1
+	exit time: 58, 
+5) 
+	Arrival: 56
+	service_time: 5
+	timeout: 0
+	priority: 3
+	waiting_time: 4
+	exit time: 63]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [12]  [ARRIVAL] Task 2 has arrived!
+[INFO] [35]  [ARRIVAL] Task 3 has arrived!
+[INFO] [44]  [Departure] Task 1 has left
+[INFO] [44]  [Execution] task 3
+[INFO] [48]  [ARRIVAL] Task 4 has arrived!
+[INFO] [51]  [Departure] Task 3 has left
+[INFO] [51]  [Execution] task 4
+[INFO] [54]  [Departure] Task 4 has left
+[INFO] [54]  [Execution] task 2
+[INFO] [56]  [ARRIVAL] Task 5 has arrived!
+[INFO] [74]  [Departure] Task 2 has left
+[INFO] [74]  [Execution] task 5
+[INFO] [91]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 44
+	timeout: 27
+	priority: 3
+	waiting_time: 1
+	exit time: 43, 
+2) 
+	Arrival: 12
+	service_time: 20
+	timeout: 78
+	priority: 3
+	waiting_time: 43
+	exit time: 73, 
+3) 
+	Arrival: 35
+	service_time: 7
+	timeout: 10
+	priority: 3
+	waiting_time: 10
+	exit time: 50, 
+4) 
+	Arrival: 48
+	service_time: 3
+	timeout: 17
+	priority: 1
+	waiting_time: 4
+	exit time: 53, 
+5) 
+	Arrival: 56
+	service_time: 17
+	timeout: 6
+	priority: 2
+	waiting_time: 19
+	exit time: 90]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [1]  [Departure] Task 1 has left
+[INFO] [3]  [ARRIVAL] Task 2 has arrived!
+[INFO] [3]  [Execution] task 2
+[INFO] [5]  [Departure] Task 2 has left
+[INFO] [15]  [ARRIVAL] Task 3 has arrived!
+[INFO] [15]  [Execution] task 3
+[INFO] [19]  [Departure] Task 3 has left
+[INFO] [24]  [ARRIVAL] Task 4 has arrived!
+[INFO] [24]  [Execution] task 4
+[INFO] [25]  [Departure] Task 4 has left
+[INFO] [29]  [ARRIVAL] Task 5 has arrived!
+[INFO] [29]  [Execution] task 5
+[INFO] [31]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 1
+	timeout: 212
+	priority: 2
+	waiting_time: 1
+	exit time: 0, 
+2) 
+	Arrival: 3
+	service_time: 2
+	timeout: 58
+	priority: 3
+	waiting_time: 1
+	exit time: 4, 
+3) 
+	Arrival: 15
+	service_time: 4
+	timeout: 123
+	priority: 3
+	waiting_time: 1
+	exit time: 18, 
+4) 
+	Arrival: 24
+	service_time: 1
+	timeout: 372
+	priority: 2
+	waiting_time: 1
+	exit time: 24, 
+5) 
+	Arrival: 29
+	service_time: 2
+	timeout: 42
+	priority: 3
+	waiting_time: 1
+	exit time: 30]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [1]  [ARRIVAL] Task 2 has arrived!
+[INFO] [10]  [Departure] Task 1 has left
+[INFO] [10]  [ARRIVAL] Task 3 has arrived!
+[INFO] [10]  [Execution] task 3
+[INFO] [11]  [Departure] Task 3 has left
+[INFO] [11]  [Execution] task 2
+[INFO] [13]  [ARRIVAL] Task 4 has arrived!
+[INFO] [21]  [Departure] Task 2 has left
+[INFO] [21]  [Execution] task 4
+[INFO] [22]  [ARRIVAL] Task 5 has arrived!
+[INFO] [28]  [Departure] Task 4 has left
+[INFO] [28]  [Execution] task 5
+[INFO] [29]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 10
+	timeout: 14
+	priority: 2
+	waiting_time: 1
+	exit time: 9, 
+2) 
+	Arrival: 1
+	service_time: 10
+	timeout: 199
+	priority: 3
+	waiting_time: 11
+	exit time: 20, 
+3) 
+	Arrival: 10
+	service_time: 1
+	timeout: 35
+	priority: 3
+	waiting_time: 1
+	exit time: 10, 
+4) 
+	Arrival: 13
+	service_time: 7
+	timeout: 11
+	priority: 3
+	waiting_time: 9
+	exit time: 27, 
+5) 
+	Arrival: 22
+	service_time: 1
+	timeout: 95
+	priority: 3
+	waiting_time: 7
+	exit time: 28]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [5]  [Departure] Task 1 has left
+[INFO] [11]  [ARRIVAL] Task 2 has arrived!
+[INFO] [11]  [Execution] task 2
+[INFO] [15]  [Departure] Task 2 has left
+[INFO] [20]  [ARRIVAL] Task 3 has arrived!
+[INFO] [20]  [Execution] task 3
+[INFO] [30]  [Departure] Task 3 has left
+[INFO] [30]  [ARRIVAL] Task 4 has arrived!
+[INFO] [30]  [Execution] task 4
+[INFO] [38]  [Departure] Task 4 has left
+[INFO] [48]  [ARRIVAL] Task 5 has arrived!
+[INFO] [48]  [Execution] task 5
+[INFO] [49]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 5
+	timeout: 115
+	priority: 3
+	waiting_time: 1
+	exit time: 4, 
+2) 
+	Arrival: 11
+	service_time: 4
+	timeout: 54
+	priority: 3
+	waiting_time: 1
+	exit time: 14, 
+3) 
+	Arrival: 20
+	service_time: 10
+	timeout: 118
+	priority: 3
+	waiting_time: 1
+	exit time: 29, 
+4) 
+	Arrival: 30
+	service_time: 8
+	timeout: 219
+	priority: 3
+	waiting_time: 1
+	exit time: 37, 
+5) 
+	Arrival: 48
+	service_time: 0
+	timeout: 119
+	priority: 2
+	waiting_time: 1
+	exit time: 48]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [1]  [ARRIVAL] Task 2 has arrived!
+[INFO] [5]  [ARRIVAL] Task 3 has arrived!
+[INFO] [11]  [Departure] Task 1 has left
+[INFO] [11]  [Execution] task 3
+[INFO] [12]  [ARRIVAL] Task 4 has arrived!
+[INFO] [18]  [Departure] Task 3 has left
+[INFO] [18]  [Execution] task 4
+[INFO] [21]  [Departure] Task 4 has left
+[INFO] [21]  [Execution] task 2
+[INFO] [38]  [Departure] Task 2 has left
+[INFO] [43]  [ARRIVAL] Task 5 has arrived!
+[INFO] [43]  [Execution] task 5
+[INFO] [49]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 11
+	timeout: 15
+	priority: 2
+	waiting_time: 1
+	exit time: 11, 
+2) 
+	Arrival: 1
+	service_time: 17
+	timeout: 66
+	priority: 3
+	waiting_time: 21
+	exit time: 38, 
+3) 
+	Arrival: 5
+	service_time: 7
+	timeout: 70
+	priority: 3
+	waiting_time: 7
+	exit time: 18, 
+4) 
+	Arrival: 12
+	service_time: 3
+	timeout: 50
+	priority: 2
+	waiting_time: 7
+	exit time: 21, 
+5) 
+	Arrival: 43
+	service_time: 6
+	timeout: 3
+	priority: 3
+	waiting_time: 1
+	exit time: 49]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [2]  [Departure] Task 1 has left
+[INFO] [11]  [ARRIVAL] Task 2 has arrived!
+[INFO] [11]  [Execution] task 2
+[INFO] [20]  [Departure] Task 2 has left
+[INFO] [20]  [ARRIVAL] Task 3 has arrived!
+[INFO] [20]  [ARRIVAL] Task 4 has arrived!
+[INFO] [20]  [Execution] task 4
+[INFO] [21]  [Departure] Task 4 has left
+[INFO] [21]  [Execution] task 3
+[INFO] [31]  [ARRIVAL] Task 5 has arrived!
+[INFO] [32]  [Departure] Task 3 has left
+[INFO] [32]  [Execution] task 5
+[INFO] [39]  [Departure] Task 5 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 2
+	timeout: 8
+	priority: 3
+	waiting_time: 0
+	exit time: 2, 
+2) 
+	Arrival: 11
+	service_time: 9
+	timeout: 23
+	priority: 2
+	waiting_time: 0
+	exit time: 20, 
+3) 
+	Arrival: 20
+	service_time: 11
+	timeout: 119
+	priority: 3
+	waiting_time: 1
+	exit time: 32, 
+4) 
+	Arrival: 20
+	service_time: 1
+	timeout: 39
+	priority: 3
+	waiting_time: 0
+	exit time: 21, 
+5) 
+	Arrival: 31
+	service_time: 7
+	timeout: 52
+	priority: 3
+	waiting_time: 1
+	exit time: 39]
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [ARRIVAL] Task 2 has arrived!
+[INFO] [0]  [Execution] task 2
+[INFO] [6]  [Departure] Task 2 has left
+[INFO] [6]  [Execution] task 1
+[INFO] [9]  [Departure] Task 1 has left
+[INFO] [18]  [ARRIVAL] Task 3 has arrived!
+[INFO] [18]  [Execution] task 3
+[INFO] [19]  [ARRIVAL] Task 4 has arrived!
+[INFO] [26]  [Departure] Task 3 has left
+[INFO] [26]  [ARRIVAL] Task 5 has arrived!
+[INFO] [26]  [Execution] task 5
+[INFO] [41]  [Departure] Task 5 has left
+[INFO] [41]  [Execution] task 4
+[INFO] [53]  [Departure] Task 4 has left
+[INFO] 
+
+
+
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [16]  [ARRIVAL] Task 2 has arrived!
+[INFO] [24]  [ARRIVAL] Task 3 has arrived!
+[INFO] [29]  [ARRIVAL] Task 4 has arrived!
+[INFO] [35]  [Departure] Task 1 has left
+[INFO] [35]  [Execution] task 4
+[INFO] [40]  [ARRIVAL] Task 5 has arrived!
+[INFO] [44]  [Departure] Task 4 has left
+[INFO] [44]  [Execution] task 5
+[INFO] [46]  [Departure] Task 5 has left
+[INFO] [46]  [Execution] task 3
+[INFO] [61]  [Departure] Task 3 has left
+[INFO] [61]  [Execution] task 2
+[INFO] [73]  [Departure] Task 2 has left
+[INFO] 
+
+
+
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [4]  [ARRIVAL] Task 2 has arrived!
+[INFO] [16]  [ARRIVAL] Task 3 has arrived!
+[INFO] [20]  [Departure] Task 1 has left
+[INFO] [20]  [Execution] task 3
+[INFO] [23]  [ARRIVAL] Task 4 has arrived!
+[INFO] [29]  [Departure] Task 3 has left
+[INFO] [29]  [Execution] task 4
+[INFO] [38]  [Departure] Task 4 has left
+[INFO] [38]  [Execution] task 2
+[INFO] [42]  [Departure] Task 2 has left
+[INFO] [60]  [ARRIVAL] Task 5 has arrived!
+[INFO] [60]  [Execution] task 5
 [INFO] [70]  [Departure] Task 5 has left
 [INFO] 
 
 
 
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 12
-	timeout: 17
-	priority: 3
-	waiting_time: 1
-	exit time: 11, 
-2) 
-	Arrival: 25
-	service_time: 3
-	timeout: 7
-	priority: 2
-	waiting_time: 1
-	exit time: 27, 
-3) 
-	Arrival: 44
-	service_time: 14
-	timeout: 12
-	priority: 1
-	waiting_time: 1
-	exit time: 57, 
-4) 
-	Arrival: 59
-	service_time: 5
-	timeout: 8
-	priority: 2
-	waiting_time: 1
-	exit time: 63, 
-5) 
-	Arrival: 69
-	service_time: 0
-	timeout: 0
-	priority: 3
-	waiting_time: 1
-	exit time: 69]
 [INFO] [0]  [ARRIVAL] Task 1 has arrived!
 [INFO] [0]  [Execution] task 1
-[INFO] [1]  [Execution] task 1
-[INFO] [2]  [Execution] task 1
-[INFO] [3]  [Execution] task 1
-[INFO] [4]  [Execution] task 1
-[INFO] [5]  [Execution] task 1
-[INFO] [6]  [Execution] task 1
-[INFO] [7]  [Execution] task 1
-[INFO] [8]  [Execution] task 1
-[INFO] [9]  [Execution] task 1
-[INFO] [10]  [Execution] task 1
-[INFO] [11]  [Execution] task 1
-[INFO] [12]  [Execution] task 1
-[INFO] [13]  [Execution] task 1
-[INFO] [14]  [Execution] task 1
-[INFO] [15]  [Execution] task 1
-[INFO] [16]  [Execution] task 1
-[INFO] [17]  [Execution] task 1
-[INFO] [18]  [ARRIVAL] Task 2 has arrived!
-[INFO] [18]  [Execution] task 1
-[INFO] [19]  [ARRIVAL] Task 3 has arrived!
-[INFO] [19]  [Execution] task 1
-[INFO] [20]  [Execution] task 1
-[INFO] [21]  [Execution] task 1
-[INFO] [22]  [Execution] task 1
-[INFO] [23]  [Execution] task 1
-[INFO] [24]  [Execution] task 1
-[INFO] [25]  [Execution] task 1
-[INFO] [26]  [Execution] task 1
-[INFO] [27]  [Execution] task 1
-[INFO] [28]  [Execution] task 1
-[INFO] [29]  [Execution] task 1
-[INFO] [30]  [Departure] Task 1 has left
-[INFO] [30]  [Execution] task 3
-[INFO] [31]  [Execution] task 3
-[INFO] [32]  [Execution] task 3
-[INFO] [33]  [Execution] task 3
-[INFO] [34]  [Execution] task 3
-[INFO] [35]  [Execution] task 3
-[INFO] [36]  [Execution] task 3
-[INFO] [37]  [ARRIVAL] Task 4 has arrived!
-[INFO] [37]  [Execution] task 3
-[INFO] [38]  [Departure] Task 3 has left
-[INFO] [38]  [Execution] task 4
-[INFO] [39]  [Execution] task 4
-[INFO] [40]  [Execution] task 4
-[INFO] [41]  [Execution] task 4
-[INFO] [42]  [Execution] task 4
-[INFO] [43]  [Execution] task 4
-[INFO] [44]  [Execution] task 4
-[INFO] [45]  [Execution] task 4
-[INFO] [46]  [Execution] task 4
-[INFO] [47]  [Execution] task 4
-[INFO] [48]  [Execution] task 4
-[INFO] [49]  [Execution] task 4
-[INFO] [50]  [Execution] task 4
-[INFO] [51]  [Departure] Task 4 has left
-[INFO] [51]  [Execution] task 2
-[INFO] [52]  [Execution] task 2
-[INFO] [53]  [Execution] task 2
-[INFO] [54]  [Execution] task 2
-[INFO] [55]  [Execution] task 2
-[INFO] [56]  [Execution] task 2
-[INFO] [57]  [Execution] task 2
-[INFO] [58]  [Execution] task 2
-[INFO] [59]  [Execution] task 2
-[INFO] [60]  [Execution] task 2
-[INFO] [61]  [Execution] task 2
-[INFO] [62]  [Execution] task 2
-[INFO] [63]  [Execution] task 2
-[INFO] [64]  [Execution] task 2
-[INFO] [65]  [Departure] Task 2 has left
-[INFO] [76]  [ARRIVAL] Task 5 has arrived!
-[INFO] [76]  [Execution] task 5
-[INFO] [77]  [Execution] task 5
-[INFO] [78]  [Execution] task 5
-[INFO] [79]  [Execution] task 5
-[INFO] [80]  [Execution] task 5
-[INFO] [81]  [Execution] task 5
-[INFO] [82]  [Execution] task 5
-[INFO] [83]  [Execution] task 5
-[INFO] [84]  [Execution] task 5
-[INFO] [85]  [Execution] task 5
-[INFO] [86]  [Execution] task 5
-[INFO] [87]  [Execution] task 5
-[INFO] [88]  [Execution] task 5
-[INFO] [89]  [Departure] Task 5 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 30
-	timeout: 3
-	priority: 1
-	waiting_time: 1
-	exit time: 29, 
-2) 
-	Arrival: 18
-	service_time: 14
-	timeout: 5
-	priority: 1
-	waiting_time: 34
-	exit time: 64, 
-3) 
-	Arrival: 19
-	service_time: 8
-	timeout: 6
-	priority: 3
-	waiting_time: 12
-	exit time: 37, 
-4) 
-	Arrival: 37
-	service_time: 13
-	timeout: 1
-	priority: 3
-	waiting_time: 2
-	exit time: 50, 
-5) 
-	Arrival: 76
-	service_time: 13
-	timeout: 3
-	priority: 3
-	waiting_time: 1
-	exit time: 88]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [1]  [ARRIVAL] Task 2 has arrived!
-[INFO] [1]  [Execution] task 1, False, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [2]  [Execution] task 1, False, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [3]  [Execution] task 1, False, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [4]  [Execution] task 1, False, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [5]  [Execution] task 1, False, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-1) 
-	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [6]  [Departure] Task 1 has left
-[INFO] [6]  [Execution] task 2, False, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [7]  [Execution] task 2, False, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [8]  [Execution] task 2, False, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [9]  [Departure] Task 2 has left
-[INFO] [15]  [ARRIVAL] Task 3 has arrived!
-[INFO] [15]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [16]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [17]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [18]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [19]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [20]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [21]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [22]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [23]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [24]  [Execution] task 3, False, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [25]  [Departure] Task 3 has left
-[INFO] [36]  [ARRIVAL] Task 4 has arrived!
-[INFO] [36]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [37]  [ARRIVAL] Task 5 has arrived!
-[INFO] [37]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [38]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [39]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [40]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [41]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [42]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [43]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [44]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [45]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [46]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [47]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [48]  [Execution] task 4, False, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 0
-	exit time: inf
-[INFO] [49]  [Departure] Task 4 has left
-[INFO] [49]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [50]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [51]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [52]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [53]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [54]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
-[INFO] [55]  [Execution] task 5, False, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 0
-	exit time: inf
+[INFO] [8]  [Departure] Task 1 has left
+[INFO] [10]  [ARRIVAL] Task 2 has arrived!
+[INFO] [10]  [Execution] task 2
+[INFO] [12]  [ARRIVAL] Task 3 has arrived!
+[INFO] [15]  [Departure] Task 2 has left
+[INFO] [15]  [Execution] task 3
+[INFO] [21]  [Departure] Task 3 has left
+[INFO] [25]  [ARRIVAL] Task 4 has arrived!
+[INFO] [25]  [Execution] task 4
+[INFO] [32]  [Departure] Task 4 has left
+[INFO] [52]  [ARRIVAL] Task 5 has arrived!
+[INFO] [52]  [Execution] task 5
 [INFO] [56]  [Departure] Task 5 has left
 [INFO] 
 
@@ -3214,892 +792,104 @@
 [INFO] [
 1) 
 	Arrival: 0
-	service_time: 6
-	timeout: 21
-	priority: 2
-	waiting_time: 1
-	exit time: 5, 
-2) 
-	Arrival: 1
-	service_time: 3
-	timeout: 0
-	priority: 2
-	waiting_time: 6
-	exit time: 8, 
-3) 
-	Arrival: 15
-	service_time: 10
-	timeout: 26
-	priority: 3
-	waiting_time: 1
-	exit time: 24, 
-4) 
-	Arrival: 36
-	service_time: 13
-	timeout: 15
-	priority: 2
-	waiting_time: 1
-	exit time: 48, 
-5) 
-	Arrival: 37
-	service_time: 7
-	timeout: 2
-	priority: 3
-	waiting_time: 13
-	exit time: 55]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, False
-[INFO] [1]  [Execution] task 1, False, False
-[INFO] [2]  [Execution] task 1, False, False
-[INFO] [3]  [Execution] task 1, False, False
-[INFO] [4]  [ARRIVAL] Task 2 has arrived!
-[INFO] [4]  [Execution] task 1, False, False
-[INFO] [5]  [Execution] task 1, False, False
-[INFO] [6]  [Execution] task 1, False, False
-[INFO] [7]  [Execution] task 1, False, False
-[INFO] [8]  [Execution] task 1, False, False
-[INFO] [9]  [Execution] task 1, False, False
-[INFO] [10]  [Execution] task 1, False, False
-[INFO] [11]  [Execution] task 1, False, False
-[INFO] [12]  [Execution] task 1, False, False
-[INFO] [13]  [ARRIVAL] Task 3 has arrived!
-[INFO] [13]  [Execution] task 1, False, False
-[INFO] [14]  [Execution] task 1, False, False
-[INFO] [15]  [Execution] task 1, False, False
-[INFO] [16]  [Execution] task 1, False, False
-[INFO] [17]  [Execution] task 1, False, False
-[INFO] [18]  [Execution] task 1, False, False
-[INFO] [19]  [ARRIVAL] Task 4 has arrived!
-[INFO] [19]  [Execution] task 1, False, False
-[INFO] [20]  [Execution] task 1, False, False
-[INFO] [21]  [Execution] task 1, False, False
-[INFO] [22]  [Execution] task 1, False, False
-[INFO] [23]  [Execution] task 1, False, False
-[INFO] [24]  [Execution] task 1, False, False
-[INFO] [25]  [Departure] Task 1 has left
-[INFO] [25]  [Execution] task 4, False, False
-[INFO] [26]  [Execution] task 4, False, False
-[INFO] [27]  [Execution] task 4, False, False
-[INFO] [28]  [Execution] task 4, False, False
-[INFO] [29]  [Execution] task 4, False, False
-[INFO] [30]  [Execution] task 4, False, False
-[INFO] [31]  [Execution] task 4, False, False
-[INFO] [32]  [Execution] task 4, False, False
-[INFO] [33]  [Execution] task 4, False, False
-[INFO] [34]  [Execution] task 4, False, False
-[INFO] [35]  [Departure] Task 4 has left
-[INFO] [35]  [Execution] task 3, False, False
-[INFO] [36]  [Execution] task 3, False, False
-[INFO] [37]  [ARRIVAL] Task 5 has arrived!
-[INFO] [37]  [Execution] task 3, False, False
-[INFO] [38]  [Execution] task 3, False, False
-[INFO] [39]  [Execution] task 3, False, False
-[INFO] [40]  [Execution] task 3, False, False
-[INFO] [41]  [Execution] task 3, False, False
-[INFO] [42]  [Execution] task 3, False, False
-[INFO] [43]  [Execution] task 3, False, False
-[INFO] [44]  [Execution] task 3, False, False
-[INFO] [45]  [Departure] Task 3 has left
-[INFO] [45]  [Execution] task 5, False, False
-[INFO] [46]  [Execution] task 5, False, False
-[INFO] [47]  [Execution] task 5, False, False
-[INFO] [48]  [Execution] task 5, False, False
-[INFO] [49]  [Execution] task 5, False, False
-[INFO] [50]  [Execution] task 5, False, False
-[INFO] [51]  [Execution] task 5, False, False
-[INFO] [52]  [Execution] task 5, False, False
-[INFO] [53]  [Departure] Task 5 has left
-[INFO] [53]  [Execution] task 2, False, False
-[INFO] [54]  [Execution] task 2, False, False
-[INFO] [55]  [Execution] task 2, False, False
-[INFO] [56]  [Execution] task 2, False, False
-[INFO] [57]  [Execution] task 2, False, False
-[INFO] [58]  [Execution] task 2, False, False
-[INFO] [59]  [Execution] task 2, False, False
-[INFO] [60]  [Execution] task 2, False, False
-[INFO] [61]  [Execution] task 2, False, False
-[INFO] [62]  [Execution] task 2, False, False
-[INFO] [63]  [Execution] task 2, False, False
-[INFO] [64]  [Execution] task 2, False, False
-[INFO] [65]  [Execution] task 2, False, False
-[INFO] [66]  [Execution] task 2, False, False
-[INFO] [67]  [Execution] task 2, False, False
-[INFO] [68]  [Execution] task 2, False, False
-[INFO] [69]  [Execution] task 2, False, False
-[INFO] [70]  [Execution] task 2, False, False
-[INFO] [71]  [Execution] task 2, False, False
-[INFO] [72]  [Execution] task 2, False, False
-[INFO] [73]  [Execution] task 2, False, False
-[INFO] [74]  [Execution] task 2, False, False
-[INFO] [75]  [Execution] task 2, False, False
-[INFO] [76]  [Execution] task 2, False, False
-[INFO] [77]  [Execution] task 2, False, False
-[INFO] [78]  [Departure] Task 2 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 25
-	timeout: 2
-	priority: 2
-	waiting_time: 1
-	exit time: 24, 
-2) 
-	Arrival: 4
-	service_time: 25
-	timeout: 6
-	priority: 3
-	waiting_time: 50
-	exit time: 77, 
-3) 
-	Arrival: 13
-	service_time: 10
-	timeout: 1
-	priority: 2
-	waiting_time: 23
-	exit time: 44, 
-4) 
-	Arrival: 19
-	service_time: 10
-	timeout: 3
-	priority: 3
-	waiting_time: 7
-	exit time: 34, 
-5) 
-	Arrival: 37
 	service_time: 8
-	timeout: 5
-	priority: 2
-	waiting_time: 9
-	exit time: 52]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, False
-[INFO] [1]  [Execution] task 1, False, False
-[INFO] [2]  [ARRIVAL] Task 2 has arrived!
-[INFO] [2]  [Execution] task 1, False, False
-[INFO] [3]  [Execution] task 1, False, False
-[INFO] [4]  [Execution] task 1, False, False
-[INFO] [5]  [Execution] task 1, False, False
-[INFO] [6]  [Execution] task 1, False, False
-[INFO] [7]  [Execution] task 1, False, False
-[INFO] [8]  [Execution] task 1, False, False
-[INFO] [9]  [Execution] task 1, False, False
-[INFO] [10]  [Execution] task 1, False, False
-[INFO] [11]  [ARRIVAL] Task 3 has arrived!
-[INFO] [11]  [Execution] task 1, False, False
-[INFO] [12]  [Execution] task 1, False, False
-[INFO] [13]  [Execution] task 1, False, False
-[INFO] [14]  [Execution] task 1, False, False
-[INFO] [15]  [ARRIVAL] Task 4 has arrived!
-[INFO] [15]  [Execution] task 1, False, False
-[INFO] [16]  [Execution] task 1, False, False
-[INFO] [17]  [Execution] task 1, False, False
-[INFO] [18]  [Execution] task 1, False, False
-[INFO] [19]  [Execution] task 1, False, False
-[INFO] [20]  [Execution] task 1, False, False
-[INFO] [21]  [Execution] task 1, False, False
-[INFO] [22]  [Execution] task 1, False, False
-[INFO] [23]  [Execution] task 1, False, False
-[INFO] [24]  [Execution] task 1, False, False
-[INFO] [25]  [Execution] task 1, False, False
-[INFO] [26]  [Execution] task 1, False, False
-[INFO] [27]  [Execution] task 1, False, False
-[INFO] [28]  [Execution] task 1, False, False
-[INFO] [29]  [Departure] Task 1 has left
-[INFO] [29]  [Execution] task 4, False, False
-[INFO] [30]  [Execution] task 4, False, False
-[INFO] [31]  [Execution] task 4, False, False
-[INFO] [32]  [ARRIVAL] Task 5 has arrived!
-[INFO] [32]  [Execution] task 4, False, False
-[INFO] [33]  [Execution] task 4, False, False
-[INFO] [34]  [Execution] task 4, False, False
-[INFO] [35]  [Execution] task 4, False, False
-[INFO] [36]  [Execution] task 4, False, False
-[INFO] [37]  [Execution] task 4, False, False
-[INFO] [38]  [Departure] Task 4 has left
-[INFO] [38]  [Execution] task 5, False, False
-[INFO] [39]  [Execution] task 5, False, False
-[INFO] [40]  [Execution] task 5, False, False
-[INFO] [41]  [Execution] task 5, False, False
-[INFO] [42]  [Execution] task 5, False, False
-[INFO] [43]  [Execution] task 5, False, False
-[INFO] [44]  [Execution] task 5, False, False
-[INFO] [45]  [Execution] task 5, False, False
-[INFO] [46]  [Execution] task 5, False, False
-[INFO] [47]  [Execution] task 5, False, False
-[INFO] [48]  [Execution] task 5, False, False
-[INFO] [49]  [Execution] task 5, False, False
-[INFO] [50]  [Execution] task 5, False, False
-[INFO] [51]  [Execution] task 5, False, False
-[INFO] [52]  [Execution] task 5, False, False
-[INFO] [53]  [Execution] task 5, False, False
-[INFO] [54]  [Execution] task 5, False, False
-[INFO] [55]  [Execution] task 5, False, False
-[INFO] [56]  [Execution] task 5, False, False
-[INFO] [57]  [Departure] Task 5 has left
-[INFO] [57]  [Execution] task 3, False, False
-[INFO] [58]  [Execution] task 3, False, False
-[INFO] [59]  [Execution] task 3, False, False
-[INFO] [60]  [Departure] Task 3 has left
-[INFO] [60]  [Execution] task 2, False, False
-[INFO] [61]  [Departure] Task 2 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 29
-	timeout: 5
+	timeout: 79
 	priority: 3
-	waiting_time: 1
-	exit time: 28, 
-2) 
-	Arrival: 2
-	service_time: 1
-	timeout: 18
-	priority: 3
-	waiting_time: 59
-	exit time: 60, 
-3) 
-	Arrival: 11
-	service_time: 3
-	timeout: 8
-	priority: 2
-	waiting_time: 47
-	exit time: 59, 
-4) 
-	Arrival: 15
-	service_time: 9
-	timeout: 4
-	priority: 3
-	waiting_time: 15
-	exit time: 37, 
-5) 
-	Arrival: 32
-	service_time: 19
-	timeout: 4
-	priority: 3
-	waiting_time: 7
-	exit time: 56]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [1]  [Execution] task 1, False, True
-[INFO] [2]  [Execution] task 1, False, True
-[INFO] [3]  [Execution] task 1, False, True
-[INFO] [4]  [Departure] Task 1 has left
-[INFO] [9]  [ARRIVAL] Task 2 has arrived!
-[INFO] [9]  [Execution] task 2, False, True
-[INFO] [10]  [Execution] task 2, False, True
-[INFO] [11]  [ARRIVAL] Task 3 has arrived!
-[INFO] [11]  [Execution] task 2, False, True
-[INFO] [12]  [Execution] task 2, False, True
-[INFO] [13]  [Execution] task 2, False, True
-[INFO] [14]  [Execution] task 2, False, True
-[INFO] [15]  [ARRIVAL] Task 4 has arrived!
-[INFO] [15]  [Execution] task 2, False, True
-[INFO] [16]  [Execution] task 2, False, True
-[INFO] [17]  [Execution] task 2, False, True
-[INFO] [18]  [Execution] task 2, False, True
-[INFO] [19]  [Execution] task 2, False, True
-[INFO] [20]  [Execution] task 2, False, True
-[INFO] [21]  [Execution] task 2, False, True
-[INFO] [22]  [Execution] task 2, False, True
-[INFO] [23]  [Execution] task 2, False, True
-[INFO] [24]  [Execution] task 2, False, True
-[INFO] [25]  [Execution] task 2, False, True
-[INFO] [26]  [Execution] task 2, False, True
-[INFO] [27]  [Departure] Task 2 has left
-[INFO] [27]  [Execution] task 4, False, True
-[INFO] [28]  [Execution] task 4, False, True
-[INFO] [29]  [Execution] task 4, False, True
-[INFO] [30]  [Execution] task 4, False, True
-[INFO] [31]  [Departure] Task 4 has left
-[INFO] [31]  [Execution] task 3, False, True
-[INFO] [32]  [Execution] task 3, False, True
-[INFO] [33]  [Execution] task 3, False, True
-[INFO] [34]  [Execution] task 3, False, True
-[INFO] [35]  [Execution] task 3, False, True
-[INFO] [36]  [Execution] task 3, False, True
-[INFO] [37]  [Execution] task 3, False, True
-[INFO] [38]  [Execution] task 3, False, True
-[INFO] [39]  [Departure] Task 3 has left
-[INFO] [42]  [ARRIVAL] Task 5 has arrived!
-[INFO] [42]  [Execution] task 5, False, True
-[INFO] [43]  [Execution] task 5, False, True
-[INFO] [44]  [Execution] task 5, False, True
-[INFO] [45]  [Execution] task 5, False, True
-[INFO] [46]  [Execution] task 5, False, True
-[INFO] [47]  [Execution] task 5, False, True
-[INFO] [48]  [Execution] task 5, False, True
-[INFO] [49]  [Execution] task 5, False, True
-[INFO] [50]  [Execution] task 5, False, True
-[INFO] [51]  [Departure] Task 5 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 4
-	timeout: 4
-	priority: 2
-	waiting_time: 1
-	exit time: 3, 
-2) 
-	Arrival: 9
-	service_time: 18
-	timeout: 25
-	priority: 3
-	waiting_time: 1
-	exit time: 26, 
-3) 
-	Arrival: 11
-	service_time: 8
-	timeout: 12
-	priority: 3
-	waiting_time: 21
-	exit time: 38, 
-4) 
-	Arrival: 15
-	service_time: 4
-	timeout: 10
-	priority: 3
-	waiting_time: 13
-	exit time: 30, 
-5) 
-	Arrival: 42
-	service_time: 9
-	timeout: 0
-	priority: 3
-	waiting_time: 1
-	exit time: 50]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [1]  [Execution] task 1, False, True
-[INFO] [2]  [Execution] task 1, False, True
-[INFO] [3]  [Execution] task 1, False, True
-[INFO] [4]  [Execution] task 1, False, True
-[INFO] [5]  [Execution] task 1, False, True
-[INFO] [6]  [Execution] task 1, False, True
-[INFO] [7]  [Execution] task 1, False, True
-[INFO] [8]  [Execution] task 1, False, True
-[INFO] [9]  [Execution] task 1, False, True
-[INFO] [10]  [Departure] Task 1 has left
-[INFO] [10]  [ARRIVAL] Task 2 has arrived!
-[INFO] [10]  [Execution] task 2, False, True
-[INFO] [11]  [Execution] task 2, False, True
-[INFO] [12]  [Execution] task 2, False, True
-[INFO] [13]  [Execution] task 2, False, True
-[INFO] [14]  [Execution] task 2, False, True
-[INFO] [15]  [Departure] Task 2 has left
-[INFO] [27]  [ARRIVAL] Task 3 has arrived!
-[INFO] [27]  [Execution] task 3, False, True
-[INFO] [28]  [Execution] task 3, False, True
-[INFO] [29]  [ARRIVAL] Task 4 has arrived!
-[INFO] [29]  [Execution] task 3, False, True
-[INFO] [30]  [Execution] task 3, False, True
-[INFO] [31]  [Execution] task 3, False, True
-[INFO] [32]  [Execution] task 3, False, True
-[INFO] [33]  [Execution] task 3, False, True
-[INFO] [34]  [Execution] task 3, False, True
-[INFO] [35]  [Execution] task 3, False, True
-[INFO] [36]  [Execution] task 3, False, True
-[INFO] [37]  [Execution] task 3, False, True
-[INFO] [38]  [Execution] task 3, False, True
-[INFO] [39]  [Execution] task 3, False, True
-[INFO] [40]  [Execution] task 3, False, True
-[INFO] [41]  [Execution] task 3, False, True
-[INFO] [42]  [Execution] task 3, False, True
-[INFO] [43]  [Execution] task 3, False, True
-[INFO] [44]  [Execution] task 3, False, True
-[INFO] [45]  [Departure] Task 3 has left
-[INFO] [45]  [Execution] task 4, False, True
-[INFO] [46]  [Execution] task 4, False, True
-[INFO] [47]  [Execution] task 4, False, True
-[INFO] [48]  [Execution] task 4, False, True
-[INFO] [49]  [ARRIVAL] Task 5 has arrived!
-[INFO] [49]  [Execution] task 4, False, True
-[INFO] [50]  [Execution] task 4, False, True
-[INFO] [51]  [Execution] task 4, False, True
-[INFO] [52]  [Execution] task 4, False, True
-[INFO] [53]  [Execution] task 4, False, True
-[INFO] [54]  [Departure] Task 4 has left
-[INFO] [54]  [Execution] task 5, False, True
-[INFO] [55]  [Execution] task 5, False, True
-[INFO] [56]  [Execution] task 5, False, True
-[INFO] [57]  [Execution] task 5, False, True
-[INFO] [58]  [Execution] task 5, False, True
-[INFO] [59]  [Execution] task 5, False, True
-[INFO] [60]  [Execution] task 5, False, True
-[INFO] [61]  [Execution] task 5, False, True
-[INFO] [62]  [Execution] task 5, False, True
-[INFO] [63]  [Execution] task 5, False, True
-[INFO] [64]  [Execution] task 5, False, True
-[INFO] [65]  [Departure] Task 5 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 10
-	timeout: 4
-	priority: 3
-	waiting_time: 1
-	exit time: 9, 
+	waiting_time: 0
+	exit time: 8
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
 2) 
 	Arrival: 10
 	service_time: 5
-	timeout: 10
-	priority: 2
-	waiting_time: 1
-	exit time: 14, 
+	timeout: 123
+	priority: 3
+	waiting_time: 0
+	exit time: 15
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
 3) 
-	Arrival: 27
-	service_time: 18
-	timeout: 1
-	priority: 3
-	waiting_time: 1
-	exit time: 44, 
-4) 
-	Arrival: 29
-	service_time: 9
-	timeout: 1
-	priority: 3
-	waiting_time: 17
-	exit time: 53, 
-5) 
-	Arrival: 49
-	service_time: 11
-	timeout: 10
-	priority: 3
-	waiting_time: 6
-	exit time: 64]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [1]  [Execution] task 1, False, True
-[INFO] [2]  [Execution] task 1, False, True
-[INFO] [3]  [ARRIVAL] Task 2 has arrived!
-[INFO] [3]  [Execution] task 1, False, True
-[INFO] [4]  [Execution] task 1, False, True
-[INFO] [5]  [Execution] task 1, False, True
-[INFO] [6]  [Execution] task 1, False, True
-[INFO] [7]  [Execution] task 1, False, True
-[INFO] [8]  [Execution] task 1, False, True
-[INFO] [9]  [ARRIVAL] Task 3 has arrived!
-[INFO] [9]  [Execution] task 1, False, True
-[INFO] [10]  [Execution] task 1, False, True
-[INFO] [11]  [Execution] task 1, False, True
-[INFO] [12]  [Execution] task 1, False, True
-[INFO] [13]  [Execution] task 1, False, True
-[INFO] [14]  [Execution] task 1, False, True
-[INFO] [15]  [Execution] task 1, False, True
-[INFO] [16]  [Execution] task 1, False, True
-[INFO] [17]  [Execution] task 1, False, True
-[INFO] [18]  [Execution] task 1, False, True
-[INFO] [19]  [ARRIVAL] Task 4 has arrived!
-[INFO] [19]  [Execution] task 1, False, True
-[INFO] [20]  [Execution] task 1, False, True
-[INFO] [21]  [Execution] task 1, False, True
-[INFO] [22]  [Execution] task 1, False, True
-[INFO] [23]  [Execution] task 1, False, True
-[INFO] [24]  [Departure] Task 1 has left
-[INFO] [24]  [Execution] task 4, False, True
-[INFO] [25]  [ARRIVAL] Task 5 has arrived!
-[INFO] [25]  [Execution] task 4, False, True
-[INFO] [26]  [Execution] task 4, False, True
-[INFO] [27]  [Execution] task 4, False, True
-[INFO] [28]  [Execution] task 4, False, True
-[INFO] [29]  [Execution] task 4, False, True
-[INFO] [30]  [Execution] task 4, False, True
-[INFO] [31]  [Execution] task 4, False, True
-[INFO] [32]  [Execution] task 4, False, True
-[INFO] [33]  [Execution] task 4, False, True
-[INFO] [34]  [Execution] task 4, False, True
-[INFO] [35]  [Execution] task 4, False, True
-[INFO] [36]  [Execution] task 4, False, True
-[INFO] [37]  [Execution] task 4, False, True
-[INFO] [38]  [Departure] Task 4 has left
-[INFO] [38]  [Execution] task 5, False, True
-[INFO] [39]  [Departure] Task 5 has left
-[INFO] [39]  [Execution] task 3, False, True
-[INFO] [40]  [Execution] task 3, False, True
-[INFO] [41]  [Execution] task 3, False, True
-[INFO] [42]  [Execution] task 3, False, True
-[INFO] [43]  [Execution] task 3, False, True
-[INFO] [44]  [Departure] Task 3 has left
-[INFO] [44]  [Execution] task 2, False, True
-[INFO] [45]  [Execution] task 2, False, True
-[INFO] [46]  [Execution] task 2, False, True
-[INFO] [47]  [Departure] Task 2 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 24
-	timeout: 1
-	priority: 3
-	waiting_time: 1
-	exit time: 23, 
-2) 
-	Arrival: 3
-	service_time: 3
-	timeout: 4
-	priority: 3
-	waiting_time: 42
-	exit time: 46, 
-3) 
-	Arrival: 9
-	service_time: 5
-	timeout: 10
-	priority: 3
-	waiting_time: 31
-	exit time: 43, 
-4) 
-	Arrival: 19
-	service_time: 14
-	timeout: 35
-	priority: 3
-	waiting_time: 6
-	exit time: 37, 
-5) 
-	Arrival: 25
-	service_time: 1
-	timeout: 28
-	priority: 3
-	waiting_time: 14
-	exit time: 38]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [1]  [Execution] task 1, False, True
-[INFO] [2]  [ARRIVAL] Task 2 has arrived!
-[INFO] [2]  [Execution] task 1, False, True
-[INFO] [3]  [Execution] task 1, False, True
-[INFO] [4]  [Execution] task 1, False, True
-[INFO] [5]  [Execution] task 1, False, True
-[INFO] [6]  [Departure] Task 1 has left
-[INFO] [6]  [ARRIVAL] Task 3 has arrived!
-[INFO] [6]  [Execution] task 3, False, True
-[INFO] [7]  [Execution] task 3, False, True
-[INFO] [8]  [Execution] task 3, False, True
-[INFO] [9]  [Execution] task 3, False, True
-[INFO] [10]  [Execution] task 3, False, True
-[INFO] [11]  [ARRIVAL] Task 4 has arrived!
-[INFO] [11]  [Execution] task 3, False, True
-[INFO] [12]  [Execution] task 3, False, True
-[INFO] [13]  [Execution] task 3, False, True
-[INFO] [14]  [Execution] task 3, False, True
-[INFO] [15]  [Execution] task 3, False, True
-[INFO] [16]  [Execution] task 3, False, True
-[INFO] [17]  [Execution] task 3, False, True
-[INFO] [18]  [ARRIVAL] Task 5 has arrived!
-[INFO] [18]  [Execution] task 3, False, True
-[INFO] [19]  [Execution] task 3, False, True
-[INFO] [20]  [Execution] task 3, False, True
-[INFO] [21]  [Execution] task 3, False, True
-[INFO] [22]  [Execution] task 3, False, True
-[INFO] [23]  [Execution] task 3, False, True
-[INFO] [24]  [Execution] task 3, False, True
-[INFO] [25]  [Execution] task 3, False, True
-[INFO] [26]  [Execution] task 3, False, True
-[INFO] [27]  [Execution] task 3, False, True
-[INFO] [28]  [Departure] Task 3 has left
-[INFO] [28]  [Execution] task 5, False, True
-[INFO] [29]  [Execution] task 5, False, True
-[INFO] [30]  [Execution] task 5, False, True
-[INFO] [31]  [Execution] task 5, False, True
-[INFO] [32]  [Execution] task 5, False, True
-[INFO] [33]  [Execution] task 5, False, True
-[INFO] [34]  [Execution] task 5, False, True
-[INFO] [35]  [Execution] task 5, False, True
-[INFO] [36]  [Execution] task 5, False, True
-[INFO] [37]  [Execution] task 5, False, True
-[INFO] [38]  [Execution] task 5, False, True
-[INFO] [39]  [Execution] task 5, False, True
-[INFO] [40]  [Execution] task 5, False, True
-[INFO] [41]  [Execution] task 5, False, True
-[INFO] [42]  [Departure] Task 5 has left
-[INFO] [42]  [Execution] task 4, False, True
-[INFO] [43]  [Execution] task 4, False, True
-[INFO] [44]  [Execution] task 4, False, True
-[INFO] [45]  [Execution] task 4, False, True
-[INFO] [46]  [Execution] task 4, False, True
-[INFO] [47]  [Execution] task 4, False, True
-[INFO] [48]  [Execution] task 4, False, True
-[INFO] [49]  [Execution] task 4, False, True
-[INFO] [50]  [Execution] task 4, False, True
-[INFO] [51]  [Execution] task 4, False, True
-[INFO] [52]  [Execution] task 4, False, True
-[INFO] [53]  [Execution] task 4, False, True
-[INFO] [54]  [Execution] task 4, False, True
-[INFO] [55]  [Execution] task 4, False, True
-[INFO] [56]  [Execution] task 4, False, True
-[INFO] [57]  [Execution] task 4, False, True
-[INFO] [58]  [Execution] task 4, False, True
-[INFO] [59]  [Departure] Task 4 has left
-[INFO] [59]  [Execution] task 2, False, True
-[INFO] [60]  [Execution] task 2, False, True
-[INFO] [61]  [Execution] task 2, False, True
-[INFO] [62]  [Execution] task 2, False, True
-[INFO] [63]  [Execution] task 2, False, True
-[INFO] [64]  [Execution] task 2, False, True
-[INFO] [65]  [Execution] task 2, False, True
-[INFO] [66]  [Execution] task 2, False, True
-[INFO] [67]  [Execution] task 2, False, True
-[INFO] [68]  [Execution] task 2, False, True
-[INFO] [69]  [Execution] task 2, False, True
-[INFO] [70]  [Execution] task 2, False, True
-[INFO] [71]  [Execution] task 2, False, True
-[INFO] [72]  [Departure] Task 2 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
+	Arrival: 12
 	service_time: 6
-	timeout: 14
-	priority: 2
-	waiting_time: 1
-	exit time: 5, 
-2) 
-	Arrival: 2
-	service_time: 13
-	timeout: 0
-	priority: 2
-	waiting_time: 58
-	exit time: 71, 
-3) 
-	Arrival: 6
-	service_time: 22
-	timeout: 3
-	priority: 3
-	waiting_time: 1
-	exit time: 27, 
-4) 
-	Arrival: 11
-	service_time: 17
-	timeout: 6
-	priority: 3
-	waiting_time: 32
-	exit time: 58, 
-5) 
-	Arrival: 18
-	service_time: 14
-	timeout: 13
-	priority: 3
-	waiting_time: 11
-	exit time: 41]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [1]  [Departure] Task 1 has left
-[INFO] [5]  [ARRIVAL] Task 2 has arrived!
-[INFO] [5]  [Execution] task 2, False, True
-[INFO] [6]  [Execution] task 2, False, True
-[INFO] [7]  [Execution] task 2, False, True
-[INFO] [8]  [Execution] task 2, False, True
-[INFO] [9]  [Execution] task 2, False, True
-[INFO] [10]  [Execution] task 2, False, True
-[INFO] [11]  [Departure] Task 2 has left
-[INFO] [47]  [ARRIVAL] Task 3 has arrived!
-[INFO] [47]  [Execution] task 3, False, True
-[INFO] [48]  [Execution] task 3, False, True
-[INFO] [49]  [ARRIVAL] Task 4 has arrived!
-[INFO] [49]  [Execution] task 3, False, True
-[INFO] [50]  [Execution] task 3, False, True
-[INFO] [51]  [Departure] Task 3 has left
-[INFO] [51]  [Execution] task 4, False, True
-[INFO] [52]  [Execution] task 4, False, True
-[INFO] [53]  [Execution] task 4, False, True
-[INFO] [54]  [Execution] task 4, False, True
-[INFO] [55]  [Execution] task 4, False, True
-[INFO] [56]  [Execution] task 4, False, True
-[INFO] [57]  [ARRIVAL] Task 5 has arrived!
-[INFO] [57]  [Execution] task 4, False, True
-[INFO] [58]  [Departure] Task 4 has left
-[INFO] [58]  [Execution] task 5, False, True
-[INFO] [59]  [Execution] task 5, False, True
-[INFO] [60]  [Execution] task 5, False, True
-[INFO] [61]  [Execution] task 5, False, True
-[INFO] [62]  [Departure] Task 5 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 1
-	timeout: 5
-	priority: 3
-	waiting_time: 1
-	exit time: 0, 
-2) 
-	Arrival: 5
-	service_time: 6
-	timeout: 18
-	priority: 2
-	waiting_time: 1
-	exit time: 10, 
-3) 
-	Arrival: 47
-	service_time: 4
-	timeout: 1
-	priority: 3
-	waiting_time: 1
-	exit time: 50, 
-4) 
-	Arrival: 49
-	service_time: 7
-	timeout: 18
+	timeout: 174
 	priority: 3
 	waiting_time: 3
-	exit time: 57, 
-5) 
-	Arrival: 57
-	service_time: 4
-	timeout: 3
-	priority: 2
-	waiting_time: 2
-	exit time: 61]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [ARRIVAL] Task 2 has arrived!
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [2]  [ARRIVAL] Task 2 has arrived!
-[INFO] [16]  [Departure] Task 1 has left
-[INFO] [16]  [Execution] task 2, False, True
-[INFO] [18]  [ARRIVAL] Task 3 has arrived!
-[INFO] [22]  [ARRIVAL] Task 4 has arrived!
-[INFO] [25]  [Departure] Task 2 has left
-[INFO] [25]  [Execution] task 4, False, True
-[INFO] [47]  [ARRIVAL] Task 5 has arrived!
-[INFO] [52]  [Departure] Task 4 has left
-[INFO] [52]  [Execution] task 5, False, True
-[INFO] [53]  [Departure] Task 5 has left
-[INFO] [53]  [Execution] task 3, False, True
-[INFO] [56]  [Departure] Task 3 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 16
-	timeout: 11
-	priority: 2
-	waiting_time: 1
-	exit time: 15, 
-2) 
-	Arrival: 2
-	service_time: 9
-	timeout: 0
-	priority: 3
-	waiting_time: 15
-	exit time: 24, 
-3) 
-	Arrival: 18
-	service_time: 3
-	timeout: 7
-	priority: 3
-	waiting_time: 36
-	exit time: 55, 
+	exit time: 21
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
 4) 
-	Arrival: 22
-	service_time: 27
-	timeout: 18
-	priority: 3
-	waiting_time: 4
-	exit time: 51, 
-5) 
-	Arrival: 47
-	service_time: 1
-	timeout: 4
-	priority: 3
-	waiting_time: 6
-	exit time: 52]
-[INFO] [0]  [ARRIVAL] Task 1 has arrived!
-[INFO] [0]  [Execution] task 1, False, True
-[INFO] [23]  [Departure] Task 1 has left
-[INFO] [25]  [ARRIVAL] Task 2 has arrived!
-[INFO] [25]  [Execution] task 2, False, True
-[INFO] [32]  [ARRIVAL] Task 3 has arrived!
-[INFO] [35]  [Departure] Task 2 has left
-[INFO] [35]  [ARRIVAL] Task 4 has arrived!
-[INFO] [35]  [Execution] task 4, False, True
-[INFO] [37]  [ARRIVAL] Task 5 has arrived!
-[INFO] [52]  [Departure] Task 4 has left
-[INFO] [52]  [Execution] task 5, False, True
-[INFO] [55]  [Departure] Task 5 has left
-[INFO] [55]  [Execution] task 3, False, True
-[INFO] [59]  [Departure] Task 3 has left
-[INFO] 
-
-
-
-[INFO] [
-1) 
-	Arrival: 0
-	service_time: 23
-	timeout: 3
-	priority: 1
-	waiting_time: 1
-	exit time: 22, 
-2) 
 	Arrival: 25
-	service_time: 10
-	timeout: 23
-	priority: 3
-	waiting_time: 1
-	exit time: 34, 
-3) 
-	Arrival: 32
-	service_time: 4
-	timeout: 6
-	priority: 3
-	waiting_time: 24
-	exit time: 58, 
-4) 
-	Arrival: 35
-	service_time: 17
-	timeout: 1
-	priority: 2
-	waiting_time: 1
-	exit time: 51, 
+	service_time: 7
+	timeout: 200
+	priority: 1
+	waiting_time: 0
+	exit time: 32
+	pq time: 0
+	rr1 time: 7
+	rr2 time: 0
+	fcfs time: 0, 
 5) 
-	Arrival: 37
-	service_time: 3
-	timeout: 13
-	priority: 3
-	waiting_time: 16
-	exit time: 54]
+	Arrival: 52
+	service_time: 4
+	timeout: 95
+	priority: 2
+	waiting_time: 0
+	exit time: 56
+	pq time: 0
+	rr1 time: 4
+	rr2 time: 0
+	fcfs time: 0]
+[INFO] pq average time: 0.0
+[INFO] pq average length: 0.0
+[INFO] rr1 average time: 6.0
+[INFO] rr1 average length: 0.03
+[INFO] rr2 average time: 0.0
+[INFO] rr2 average length: 0.0
+[INFO] fcfs average time: 0.0
+[INFO] fcfs average length: 0.0
+[INFO] cpu was busy 25.0% of the time
 [INFO] [0]  [ARRIVAL] Task 1 has arrived!
 [INFO] [0]  [Execution] task 1
-[INFO] [3]  [Departure] Task 1 has left
-[INFO] [5]  [ARRIVAL] Task 2 has arrived!
-[INFO] [5]  [Execution] task 2
-[INFO] [8]  [Departure] Task 2 has left
-[INFO] [20]  [ARRIVAL] Task 3 has arrived!
-[INFO] [20]  [Execution] task 3
-[INFO] [22]  [ARRIVAL] Task 4 has arrived!
-[INFO] [22]  [ARRIVAL] Task 5 has arrived!
-[INFO] [39]  [Departure] Task 3 has left
-[INFO] [39]  [Execution] task 5
-[INFO] [43]  [Departure] Task 5 has left
-[INFO] [43]  [Execution] task 4
-[INFO] [54]  [Departure] Task 4 has left
+[INFO] [9]  [Departure] Task 1 has left
+[INFO] [10]  [ARRIVAL] Task 2 has arrived!
+[INFO] [10]  [Execution] task 2
+[INFO] [15]  [ARRIVAL] Task 3 has arrived!
+[INFO] [23]  [Departure] Task 2 has left
+[INFO] [23]  [ARRIVAL] Task 4 has arrived!
+[INFO] [23]  [Execution] task 4
+[INFO] [31]  [Departure] Task 4 has left
+[INFO] [31]  [Execution] task 3
+[INFO] [32]  [Departure] Task 3 has left
+[INFO] [32]  [ARRIVAL] Task 5 has arrived!
+[INFO] [32]  [Execution] task 5
+[INFO] [36]  [Departure] Task 5 has left
+[INFO] [39]  [ARRIVAL] Task 6 has arrived!
+[INFO] [39]  [Execution] task 6
+[INFO] [44]  [Departure] Task 6 has left
+[INFO] [60]  [ARRIVAL] Task 7 has arrived!
+[INFO] [60]  [Execution] task 7
+[INFO] [61]  [ARRIVAL] Task 8 has arrived!
+[INFO] [63]  [Departure] Task 7 has left
+[INFO] [63]  [Execution] task 8
+[INFO] [67]  [ARRIVAL] Task 9 has arrived!
+[INFO] [69]  [Departure] Task 8 has left
+[INFO] [69]  [Execution] task 9
+[INFO] [70]  [ARRIVAL] Task 10 has arrived!
+[INFO] [71]  [ARRIVAL] Task 11 has arrived!
+[INFO] [73]  [Departure] Task 9 has left
+[INFO] [73]  [Execution] task 11
+[INFO] [79]  [Departure] Task 11 has left
+[INFO] [79]  [ARRIVAL] Task 12 has arrived!
+[INFO] [79]  [Execution] task 12
+[INFO] [82]  [Departure] Task 12 has left
+[INFO] [82]  [Execution] task 10
+[INFO] [83]  [Departure] Task 10 has left
 [INFO] 
 
 
@@ -4107,36 +897,1987 @@
 [INFO] [
 1) 
 	Arrival: 0
-	service_time: 3
-	timeout: 6
-	priority: 3
-	waiting_time: 1
-	exit time: 2, 
+	service_time: 9
+	timeout: 45
+	priority: 2
+	waiting_time: 0
+	exit time: 9
+	pq time: 0
+	rr1 time: 9
+	rr2 time: 0
+	fcfs time: 0, 
 2) 
-	Arrival: 5
+	Arrival: 10
+	service_time: 13
+	timeout: 88
+	priority: 3
+	waiting_time: 0
+	exit time: 23
+	pq time: 0
+	rr1 time: 13
+	rr2 time: 0
+	fcfs time: 0, 
+3) 
+	Arrival: 15
+	service_time: 1
+	timeout: 86
+	priority: 3
+	waiting_time: 16
+	exit time: 32
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+4) 
+	Arrival: 23
+	service_time: 8
+	timeout: 90
+	priority: 3
+	waiting_time: 0
+	exit time: 31
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
+5) 
+	Arrival: 32
+	service_time: 4
+	timeout: 43
+	priority: 3
+	waiting_time: 0
+	exit time: 36
+	pq time: 0
+	rr1 time: 4
+	rr2 time: 0
+	fcfs time: 0, 
+6) 
+	Arrival: 39
+	service_time: 5
+	timeout: 20
+	priority: 3
+	waiting_time: 0
+	exit time: 44
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
+7) 
+	Arrival: 60
 	service_time: 3
+	timeout: 229
+	priority: 3
+	waiting_time: 0
+	exit time: 63
+	pq time: 0
+	rr1 time: 3
+	rr2 time: 0
+	fcfs time: 0, 
+8) 
+	Arrival: 61
+	service_time: 6
+	timeout: 184
+	priority: 3
+	waiting_time: 2
+	exit time: 69
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+9) 
+	Arrival: 67
+	service_time: 4
+	timeout: 77
+	priority: 3
+	waiting_time: 2
+	exit time: 73
+	pq time: 0
+	rr1 time: 4
+	rr2 time: 0
+	fcfs time: 0, 
+10) 
+	Arrival: 70
+	service_time: 1
+	timeout: 150
+	priority: 3
+	waiting_time: 12
+	exit time: 83
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+11) 
+	Arrival: 71
+	service_time: 6
+	timeout: 40
+	priority: 3
+	waiting_time: 2
+	exit time: 79
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+12) 
+	Arrival: 79
+	service_time: 3
+	timeout: 34
+	priority: 2
+	waiting_time: 0
+	exit time: 82
+	pq time: 0
+	rr1 time: 3
+	rr2 time: 0
+	fcfs time: 0, 
+13) 
+	Arrival: 102
+	service_time: 1
+	timeout: 24
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+14) 
+	Arrival: 121
+	service_time: 4
+	timeout: 14
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+15) 
+	Arrival: 133
+	service_time: 5
+	timeout: 13
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+16) 
+	Arrival: 134
+	service_time: 5
+	timeout: 104
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+17) 
+	Arrival: 155
+	service_time: 9
+	timeout: 28
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+18) 
+	Arrival: 166
+	service_time: 11
+	timeout: 63
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+19) 
+	Arrival: 172
+	service_time: 1
+	timeout: 98
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+20) 
+	Arrival: 188
+	service_time: 3
+	timeout: 32
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+21) 
+	Arrival: 212
+	service_time: 4
+	timeout: 59
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+22) 
+	Arrival: 213
+	service_time: 7
+	timeout: 76
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+23) 
+	Arrival: 217
+	service_time: 1
+	timeout: 7
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+24) 
+	Arrival: 225
+	service_time: 7
+	timeout: 41
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+25) 
+	Arrival: 246
+	service_time: 4
+	timeout: 88
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+26) 
+	Arrival: 251
+	service_time: 7
+	timeout: 57
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+27) 
+	Arrival: 259
+	service_time: 50
+	timeout: 29
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+28) 
+	Arrival: 276
+	service_time: 5
+	timeout: 90
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+29) 
+	Arrival: 284
+	service_time: 14
+	timeout: 55
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+30) 
+	Arrival: 297
+	service_time: 21
+	timeout: 121
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+31) 
+	Arrival: 317
+	service_time: 38
+	timeout: 27
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+32) 
+	Arrival: 341
+	service_time: 0
+	timeout: 196
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+33) 
+	Arrival: 343
+	service_time: 13
+	timeout: 181
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+34) 
+	Arrival: 390
+	service_time: 3
+	timeout: 93
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+35) 
+	Arrival: 391
+	service_time: 12
+	timeout: 24
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+36) 
+	Arrival: 394
+	service_time: 1
+	timeout: 85
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+37) 
+	Arrival: 396
+	service_time: 5
+	timeout: 93
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+38) 
+	Arrival: 405
+	service_time: 0
+	timeout: 11
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+39) 
+	Arrival: 408
+	service_time: 7
+	timeout: 9
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+40) 
+	Arrival: 414
+	service_time: 18
+	timeout: 131
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+41) 
+	Arrival: 421
+	service_time: 6
+	timeout: 34
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+42) 
+	Arrival: 426
+	service_time: 6
+	timeout: 109
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+43) 
+	Arrival: 427
+	service_time: 4
+	timeout: 95
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+44) 
+	Arrival: 431
+	service_time: 2
+	timeout: 123
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+45) 
+	Arrival: 445
+	service_time: 6
+	timeout: 318
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+46) 
+	Arrival: 505
+	service_time: 0
 	timeout: 10
 	priority: 3
-	waiting_time: 1
-	exit time: 7, 
-3) 
-	Arrival: 20
-	service_time: 19
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+47) 
+	Arrival: 507
+	service_time: 6
+	timeout: 34
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+48) 
+	Arrival: 509
+	service_time: 4
+	timeout: 139
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+49) 
+	Arrival: 523
+	service_time: 46
+	timeout: 86
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+50) 
+	Arrival: 535
+	service_time: 32
+	timeout: 128
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+51) 
+	Arrival: 554
+	service_time: 53
 	timeout: 7
 	priority: 3
-	waiting_time: 1
-	exit time: 38, 
-4) 
-	Arrival: 22
-	service_time: 11
-	timeout: 10
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+52) 
+	Arrival: 557
+	service_time: 9
+	timeout: 122
 	priority: 3
-	waiting_time: 22
-	exit time: 53, 
-5) 
-	Arrival: 22
-	service_time: 4
-	timeout: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+53) 
+	Arrival: 572
+	service_time: 18
+	timeout: 43
 	priority: 2
-	waiting_time: 18
-	exit time: 42]
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+54) 
+	Arrival: 580
+	service_time: 1
+	timeout: 48
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+55) 
+	Arrival: 589
+	service_time: 4
+	timeout: 44
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+56) 
+	Arrival: 589
+	service_time: 5
+	timeout: 35
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+57) 
+	Arrival: 592
+	service_time: 4
+	timeout: 190
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+58) 
+	Arrival: 596
+	service_time: 7
+	timeout: 21
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+59) 
+	Arrival: 599
+	service_time: 25
+	timeout: 63
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+60) 
+	Arrival: 601
+	service_time: 2
+	timeout: 51
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+61) 
+	Arrival: 605
+	service_time: 11
+	timeout: 16
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+62) 
+	Arrival: 606
+	service_time: 3
+	timeout: 88
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+63) 
+	Arrival: 608
+	service_time: 31
+	timeout: 408
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+64) 
+	Arrival: 611
+	service_time: 10
+	timeout: 125
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+65) 
+	Arrival: 619
+	service_time: 6
+	timeout: 2
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+66) 
+	Arrival: 632
+	service_time: 11
+	timeout: 6
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+67) 
+	Arrival: 667
+	service_time: 16
+	timeout: 162
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+68) 
+	Arrival: 698
+	service_time: 10
+	timeout: 28
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+69) 
+	Arrival: 702
+	service_time: 4
+	timeout: 11
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+70) 
+	Arrival: 710
+	service_time: 0
+	timeout: 115
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+71) 
+	Arrival: 711
+	service_time: 2
+	timeout: 82
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+72) 
+	Arrival: 729
+	service_time: 26
+	timeout: 49
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+73) 
+	Arrival: 730
+	service_time: 4
+	timeout: 116
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+74) 
+	Arrival: 732
+	service_time: 1
+	timeout: 91
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+75) 
+	Arrival: 752
+	service_time: 1
+	timeout: 50
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+76) 
+	Arrival: 752
+	service_time: 3
+	timeout: 7
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+77) 
+	Arrival: 767
+	service_time: 7
+	timeout: 11
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+78) 
+	Arrival: 782
+	service_time: 14
+	timeout: 55
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+79) 
+	Arrival: 799
+	service_time: 5
+	timeout: 110
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+80) 
+	Arrival: 804
+	service_time: 1
+	timeout: 51
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+81) 
+	Arrival: 806
+	service_time: 2
+	timeout: 148
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+82) 
+	Arrival: 809
+	service_time: 15
+	timeout: 37
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+83) 
+	Arrival: 828
+	service_time: 13
+	timeout: 12
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+84) 
+	Arrival: 839
+	service_time: 6
+	timeout: 306
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+85) 
+	Arrival: 850
+	service_time: 2
+	timeout: 9
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+86) 
+	Arrival: 851
+	service_time: 3
+	timeout: 57
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+87) 
+	Arrival: 854
+	service_time: 11
+	timeout: 161
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+88) 
+	Arrival: 860
+	service_time: 38
+	timeout: 38
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+89) 
+	Arrival: 861
+	service_time: 2
+	timeout: 218
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+90) 
+	Arrival: 866
+	service_time: 2
+	timeout: 87
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+91) 
+	Arrival: 871
+	service_time: 26
+	timeout: 78
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+92) 
+	Arrival: 915
+	service_time: 1
+	timeout: 59
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+93) 
+	Arrival: 926
+	service_time: 14
+	timeout: 23
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+94) 
+	Arrival: 942
+	service_time: 0
+	timeout: 119
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+95) 
+	Arrival: 949
+	service_time: 1
+	timeout: 34
+	priority: 2
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+96) 
+	Arrival: 969
+	service_time: 23
+	timeout: 418
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+97) 
+	Arrival: 990
+	service_time: 6
+	timeout: 93
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+98) 
+	Arrival: 997
+	service_time: 3
+	timeout: 5
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+99) 
+	Arrival: 1000
+	service_time: 10
+	timeout: 116
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+100) 
+	Arrival: 1001
+	service_time: 17
+	timeout: 190
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0]
+[INFO] pq average time: 0.0
+[INFO] pq average length: 0.0
+[INFO] rr1 average time: 0.63
+[INFO] rr1 average length: 0.34
+[INFO] rr2 average time: 0.0
+[INFO] rr2 average length: 0.0
+[INFO] fcfs average time: 0.0
+[INFO] fcfs average length: 0.0
+[INFO] cpu was busy 51.0% of the time
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [13]  [Departure] Task 1 has left
+[INFO] [16]  [ARRIVAL] Task 2 has arrived!
+[INFO] [16]  [Execution] task 2
+[INFO] [24]  [ARRIVAL] Task 3 has arrived!
+[INFO] [30]  [Departure] Task 2 has left
+[INFO] [30]  [Execution] task 3
+[INFO] [32]  [Departure] Task 3 has left
+[INFO] [44]  [ARRIVAL] Task 4 has arrived!
+[INFO] [44]  [Execution] task 4
+[INFO] [46]  [ARRIVAL] Task 5 has arrived!
+[INFO] [52]  [Departure] Task 4 has left
+[INFO] [52]  [Execution] task 5
+[INFO] [60]  [Departure] Task 5 has left
+[INFO] [72]  [ARRIVAL] Task 6 has arrived!
+[INFO] [72]  [Execution] task 6
+[INFO] [93]  [ARRIVAL] Task 7 has arrived!
+[INFO] [96]  [ARRIVAL] Task 8 has arrived!
+[INFO] [100]  [Departure] Task 6 has left
+[INFO] [100]  [Execution] task 8
+[INFO] [107]  [Departure] Task 8 has left
+[INFO] [107]  [Execution] task 7
+[INFO] [108]  [Departure] Task 7 has left
+[INFO] [121]  [ARRIVAL] Task 9 has arrived!
+[INFO] [121]  [Execution] task 9
+[INFO] [122]  [Departure] Task 9 has left
+[INFO] [123]  [ARRIVAL] Task 10 has arrived!
+[INFO] [123]  [Execution] task 10
+[INFO] [128]  [Departure] Task 10 has left
+[INFO] [128]  [ARRIVAL] Task 11 has arrived!
+[INFO] [128]  [Execution] task 11
+[INFO] [129]  [Departure] Task 11 has left
+[INFO] [143]  [ARRIVAL] Task 12 has arrived!
+[INFO] [143]  [Execution] task 12
+[INFO] [145]  [ARRIVAL] Task 13 has arrived!
+[INFO] [146]  [ARRIVAL] Task 14 has arrived!
+[INFO] [149]  [ARRIVAL] Task 15 has arrived!
+[INFO] [150]  [Departure] Task 12 has left
+[INFO] [150]  [Execution] task 15
+[INFO] [153]  [Departure] Task 15 has left
+[INFO] [153]  [Execution] task 14
+[INFO] [155]  [ARRIVAL] Task 16 has arrived!
+[INFO] [161]  [Departure] Task 14 has left
+[INFO] [161]  [Execution] task 16
+[INFO] [173]  [ARRIVAL] Task 17 has arrived!
+[INFO] [183]  [Departure] Task 16 has left
+[INFO] [183]  [Execution] task 17
+[INFO] [186]  [ARRIVAL] Task 18 has arrived!
+[INFO] [197]  [ARRIVAL] Task 19 has arrived!
+[INFO] [197]  [ARRIVAL] Task 20 has arrived!
+[INFO] [205]  [Departure] Task 17 has left
+[INFO] [205]  [Execution] task 20
+[INFO] [207]  [Departure] Task 20 has left
+[INFO] [207]  [Execution] task 19
+[INFO] [212]  [Departure] Task 19 has left
+[INFO] [212]  [Execution] task 18
+[INFO] [215]  [Departure] Task 18 has left
+[INFO] [215]  [Execution] task 13
+[INFO] [246]  [Departure] Task 13 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 13
+	timeout: 88
+	priority: 3
+	waiting_time: 0
+	exit time: 13
+	pq time: 0
+	rr1 time: 13
+	rr2 time: 0
+	fcfs time: 0, 
+2) 
+	Arrival: 16
+	service_time: 14
+	timeout: 16
+	priority: 3
+	waiting_time: 0
+	exit time: 30
+	pq time: 0
+	rr1 time: 14
+	rr2 time: 0
+	fcfs time: 0, 
+3) 
+	Arrival: 24
+	service_time: 2
+	timeout: 134
+	priority: 3
+	waiting_time: 6
+	exit time: 32
+	pq time: 0
+	rr1 time: 2
+	rr2 time: 0
+	fcfs time: 0, 
+4) 
+	Arrival: 44
+	service_time: 8
+	timeout: 35
+	priority: 3
+	waiting_time: 0
+	exit time: 52
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
+5) 
+	Arrival: 46
+	service_time: 8
+	timeout: 281
+	priority: 2
+	waiting_time: 6
+	exit time: 60
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
+6) 
+	Arrival: 72
+	service_time: 28
+	timeout: 265
+	priority: 3
+	waiting_time: 0
+	exit time: 100
+	pq time: 0
+	rr1 time: 28
+	rr2 time: 0
+	fcfs time: 0, 
+7) 
+	Arrival: 93
+	service_time: 1
+	timeout: 265
+	priority: 3
+	waiting_time: 14
+	exit time: 108
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+8) 
+	Arrival: 96
+	service_time: 7
+	timeout: 115
+	priority: 2
+	waiting_time: 4
+	exit time: 107
+	pq time: 0
+	rr1 time: 7
+	rr2 time: 0
+	fcfs time: 0, 
+9) 
+	Arrival: 121
+	service_time: 1
+	timeout: 247
+	priority: 3
+	waiting_time: 0
+	exit time: 122
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+10) 
+	Arrival: 123
+	service_time: 5
+	timeout: 199
+	priority: 3
+	waiting_time: 0
+	exit time: 128
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
+11) 
+	Arrival: 128
+	service_time: 0
+	timeout: 89
+	priority: 3
+	waiting_time: 0
+	exit time: 129
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+12) 
+	Arrival: 143
+	service_time: 7
+	timeout: 19
+	priority: 3
+	waiting_time: 0
+	exit time: 150
+	pq time: 0
+	rr1 time: 7
+	rr2 time: 0
+	fcfs time: 0, 
+13) 
+	Arrival: 145
+	service_time: 31
+	timeout: 49
+	priority: 3
+	waiting_time: 70
+	exit time: 246
+	pq time: 0
+	rr1 time: 31
+	rr2 time: 0
+	fcfs time: 0, 
+14) 
+	Arrival: 146
+	service_time: 8
+	timeout: 109
+	priority: 2
+	waiting_time: 7
+	exit time: 161
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
+15) 
+	Arrival: 149
+	service_time: 3
+	timeout: 12
+	priority: 1
+	waiting_time: 1
+	exit time: 153
+	pq time: 0
+	rr1 time: 3
+	rr2 time: 0
+	fcfs time: 0, 
+16) 
+	Arrival: 155
+	service_time: 22
+	timeout: 2
+	priority: 2
+	waiting_time: 6
+	exit time: 183
+	pq time: 0
+	rr1 time: 22
+	rr2 time: 0
+	fcfs time: 0, 
+17) 
+	Arrival: 173
+	service_time: 22
+	timeout: 131
+	priority: 3
+	waiting_time: 10
+	exit time: 205
+	pq time: 0
+	rr1 time: 22
+	rr2 time: 0
+	fcfs time: 0, 
+18) 
+	Arrival: 186
+	service_time: 3
+	timeout: 26
+	priority: 1
+	waiting_time: 26
+	exit time: 215
+	pq time: 0
+	rr1 time: 3
+	rr2 time: 0
+	fcfs time: 0, 
+19) 
+	Arrival: 197
+	service_time: 5
+	timeout: 52
+	priority: 3
+	waiting_time: 10
+	exit time: 212
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
+20) 
+	Arrival: 197
+	service_time: 2
+	timeout: 110
+	priority: 3
+	waiting_time: 8
+	exit time: 207
+	pq time: 0
+	rr1 time: 2
+	rr2 time: 0
+	fcfs time: 0]
+[INFO] pq average time: 0.0
+[INFO] pq average length: 0.0
+[INFO] rr1 average time: 9.55
+[INFO] rr1 average length: 0.0168
+[INFO] rr2 average time: 0.0
+[INFO] rr2 average length: 0.0
+[INFO] fcfs average time: 0.0
+[INFO] fcfs average length: 0.0
+[INFO] cpu was busy 1.71% of the time
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [7]  [Departure] Task 1 has left
+[INFO] [7]  [ARRIVAL] Task 2 has arrived!
+[INFO] [7]  [Execution] task 2
+[INFO] [8]  [ARRIVAL] Task 3 has arrived!
+[INFO] [9]  [ARRIVAL] Task 4 has arrived!
+[INFO] [19]  [ARRIVAL] Task 5 has arrived!
+[INFO] [22]  [Departure] Task 2 has left
+[INFO] [22]  [Execution] task 5
+[INFO] [26]  [ARRIVAL] Task 6 has arrived!
+[INFO] [27]  [Departure] Task 5 has left
+[INFO] [27]  [Execution] task 6
+[INFO] [31]  [ARRIVAL] Task 7 has arrived!
+[INFO] [40]  [ARRIVAL] Task 8 has arrived!
+[INFO] [43]  [Departure] Task 6 has left
+[INFO] [43]  [Execution] task 8
+[INFO] [44]  [Departure] Task 8 has left
+[INFO] [44]  [Execution] task 7
+[INFO] [45]  [Departure] Task 7 has left
+[INFO] [45]  [Execution] task 4
+[INFO] [54]  [Departure] Task 4 has left
+[INFO] [54]  [Execution] task 3
+[INFO] [60]  [Departure] Task 3 has left
+[INFO] [87]  [ARRIVAL] Task 9 has arrived!
+[INFO] [87]  [Execution] task 9
+[INFO] [91]  [Departure] Task 9 has left
+[INFO] [100]  [ARRIVAL] Task 10 has arrived!
+[INFO] [100]  [Execution] task 10
+[INFO] [103]  [Departure] Task 10 has left
+[INFO] [113]  [ARRIVAL] Task 11 has arrived!
+[INFO] [113]  [Execution] task 11
+[INFO] [124]  [ARRIVAL] Task 12 has arrived!
+[INFO] [138]  [Departure] Task 11 has left
+[INFO] [138]  [Execution] task 12
+[INFO] [142]  [Departure] Task 12 has left
+[INFO] [168]  [ARRIVAL] Task 13 has arrived!
+[INFO] [168]  [Execution] task 13
+[INFO] [173]  [Departure] Task 13 has left
+[INFO] [180]  [ARRIVAL] Task 14 has arrived!
+[INFO] [180]  [Execution] task 14
+[INFO] [182]  [Departure] Task 14 has left
+[INFO] [191]  [ARRIVAL] Task 15 has arrived!
+[INFO] [191]  [Execution] task 15
+[INFO] [195]  [ARRIVAL] Task 16 has arrived!
+[INFO] [195]  [ARRIVAL] Task 17 has arrived!
+[INFO] [209]  [ARRIVAL] Task 18 has arrived!
+[INFO] [215]  [Departure] Task 15 has left
+[INFO] [215]  [Execution] task 18
+[INFO] [220]  [Departure] Task 18 has left
+[INFO] [220]  [Execution] task 16
+[INFO] [226]  [Departure] Task 16 has left
+[INFO] [226]  [Execution] task 17
+[INFO] [231]  [ARRIVAL] Task 19 has arrived!
+[INFO] [233]  [ARRIVAL] Task 20 has arrived!
+[INFO] [234]  [Departure] Task 17 has left
+[INFO] [234]  [Execution] task 20
+[INFO] [241]  [Departure] Task 20 has left
+[INFO] [241]  [Execution] task 19
+[INFO] [242]  [Departure] Task 19 has left
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 7
+	timeout: 58
+	priority: 3
+	waiting_time: 0
+	exit time: 7
+	pq time: 0
+	rr1 time: 7
+	rr2 time: 0
+	fcfs time: 0, 
+2) 
+	Arrival: 7
+	service_time: 15
+	timeout: 309
+	priority: 3
+	waiting_time: 0
+	exit time: 22
+	pq time: 0
+	rr1 time: 15
+	rr2 time: 0
+	fcfs time: 0, 
+3) 
+	Arrival: 8
+	service_time: 6
+	timeout: 64
+	priority: 2
+	waiting_time: 46
+	exit time: 60
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+4) 
+	Arrival: 9
+	service_time: 9
+	timeout: 127
+	priority: 1
+	waiting_time: 36
+	exit time: 54
+	pq time: 0
+	rr1 time: 9
+	rr2 time: 0
+	fcfs time: 0, 
+5) 
+	Arrival: 19
+	service_time: 5
+	timeout: 64
+	priority: 3
+	waiting_time: 3
+	exit time: 27
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
+6) 
+	Arrival: 26
+	service_time: 16
+	timeout: 53
+	priority: 3
+	waiting_time: 1
+	exit time: 43
+	pq time: 0
+	rr1 time: 16
+	rr2 time: 0
+	fcfs time: 0, 
+7) 
+	Arrival: 31
+	service_time: 1
+	timeout: 11
+	priority: 3
+	waiting_time: 13
+	exit time: 45
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+8) 
+	Arrival: 40
+	service_time: 0
+	timeout: 65
+	priority: 2
+	waiting_time: 3
+	exit time: 44
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+9) 
+	Arrival: 87
+	service_time: 4
+	timeout: 161
+	priority: 3
+	waiting_time: 0
+	exit time: 91
+	pq time: 0
+	rr1 time: 4
+	rr2 time: 0
+	fcfs time: 0, 
+10) 
+	Arrival: 100
+	service_time: 3
+	timeout: 15
+	priority: 3
+	waiting_time: 0
+	exit time: 103
+	pq time: 0
+	rr1 time: 3
+	rr2 time: 0
+	fcfs time: 0, 
+11) 
+	Arrival: 113
+	service_time: 25
+	timeout: 4
+	priority: 2
+	waiting_time: 0
+	exit time: 138
+	pq time: 0
+	rr1 time: 25
+	rr2 time: 0
+	fcfs time: 0, 
+12) 
+	Arrival: 124
+	service_time: 4
+	timeout: 7
+	priority: 1
+	waiting_time: 14
+	exit time: 142
+	pq time: 0
+	rr1 time: 4
+	rr2 time: 0
+	fcfs time: 0, 
+13) 
+	Arrival: 168
+	service_time: 5
+	timeout: 26
+	priority: 3
+	waiting_time: 0
+	exit time: 173
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
+14) 
+	Arrival: 180
+	service_time: 2
+	timeout: 277
+	priority: 2
+	waiting_time: 0
+	exit time: 182
+	pq time: 0
+	rr1 time: 2
+	rr2 time: 0
+	fcfs time: 0, 
+15) 
+	Arrival: 191
+	service_time: 24
+	timeout: 54
+	priority: 1
+	waiting_time: 0
+	exit time: 215
+	pq time: 0
+	rr1 time: 24
+	rr2 time: 0
+	fcfs time: 0, 
+16) 
+	Arrival: 195
+	service_time: 6
+	timeout: 680
+	priority: 2
+	waiting_time: 25
+	exit time: 226
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+17) 
+	Arrival: 195
+	service_time: 8
+	timeout: 222
+	priority: 3
+	waiting_time: 31
+	exit time: 234
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
+18) 
+	Arrival: 209
+	service_time: 5
+	timeout: 189
+	priority: 3
+	waiting_time: 6
+	exit time: 220
+	pq time: 0
+	rr1 time: 5
+	rr2 time: 0
+	fcfs time: 0, 
+19) 
+	Arrival: 231
+	service_time: 0
+	timeout: 82
+	priority: 3
+	waiting_time: 10
+	exit time: 242
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+20) 
+	Arrival: 233
+	service_time: 7
+	timeout: 102
+	priority: 2
+	waiting_time: 1
+	exit time: 241
+	pq time: 0
+	rr1 time: 7
+	rr2 time: 0
+	fcfs time: 0]
+[INFO] pq average time: 0.0
+[INFO] pq average length: 0.0
+[INFO] rr1 average time: 7.7
+[INFO] rr1 average length: 0.189
+[INFO] rr2 average time: 0.0
+[INFO] rr2 average length: 0.0
+[INFO] fcfs average time: 0.0
+[INFO] fcfs average length: 0.0
+[INFO] cpu was busy 13.4% of the time
+[INFO] [0]  [ARRIVAL] Task 1 has arrived!
+[INFO] [0]  [Execution] task 1
+[INFO] [4]  [ARRIVAL] Task 2 has arrived!
+[INFO] [6]  [Departure] Task 1 has left
+[INFO] [6]  [Execution] task 2
+[INFO] [18]  [Departure] Task 2 has left
+[INFO] [22]  [ARRIVAL] Task 3 has arrived!
+[INFO] [22]  [Execution] task 3
+[INFO] [25]  [ARRIVAL] Task 4 has arrived!
+[INFO] [28]  [Departure] Task 3 has left
+[INFO] [28]  [Execution] task 4
+[INFO] [29]  [ARRIVAL] Task 5 has arrived!
+[INFO] [34]  [Departure] Task 4 has left
+[INFO] [34]  [Execution] task 5
+[INFO] [52]  [Departure] Task 5 has left
+[INFO] [73]  [ARRIVAL] Task 6 has arrived!
+[INFO] [73]  [Execution] task 6
+[INFO] [74]  [Departure] Task 6 has left
+[INFO] [103]  [ARRIVAL] Task 7 has arrived!
+[INFO] [103]  [Execution] task 7
+[INFO] [110]  [ARRIVAL] Task 8 has arrived!
+[INFO] [111]  [Departure] Task 7 has left
+[INFO] [111]  [Execution] task 8
+[INFO] [114]  [ARRIVAL] Task 9 has arrived!
+[INFO] [125]  [Departure] Task 8 has left
+[INFO] [125]  [Execution] task 9
+[INFO] [140]  [Departure] Task 9 has left
+[INFO] [142]  [ARRIVAL] Task 10 has arrived!
+[INFO] [142]  [Execution] task 10
+[INFO] [164]  [Departure] Task 10 has left
+[INFO] [176]  [ARRIVAL] Task 11 has arrived!
+[INFO] [176]  [ARRIVAL] Task 12 has arrived!
+[INFO] [176]  [ARRIVAL] Task 13 has arrived!
+[INFO] [176]  [Execution] task 13
+[INFO] [182]  [ARRIVAL] Task 14 has arrived!
+[INFO] [189]  [ARRIVAL] Task 15 has arrived!
+[INFO] [190]  [Departure] Task 13 has left
+[INFO] [190]  [Execution] task 15
+[INFO] [199]  [Departure] Task 15 has left
+[INFO] [199]  [Execution] task 14
+[INFO] [207]  [ARRIVAL] Task 16 has arrived!
+[INFO] [208]  [ARRIVAL] Task 17 has arrived!
+[INFO] [226]  [ARRIVAL] Task 18 has arrived!
+[INFO] [227]  [Departure] Task 14 has left
+[INFO] [227]  [ARRIVAL] Task 19 has arrived!
+[INFO] [227]  [Execution] task 19
+[INFO] [230]  [ARRIVAL] Task 20 has arrived!
+[INFO] [234]  [Departure] Task 19 has left
+[INFO] [234]  [Execution] task 20
+[INFO] [238]  [Departure] Task 20 has left
+[INFO] [238]  [Execution] task 18
+[INFO] [273]  [Departure] Task 18 has left
+[INFO] [273]  [Execution] task 17
+[INFO] [291]  [Departure] Task 17 has left
+[INFO] [291]  [Execution] task 16
+[INFO] 
+
+
+
+[INFO] [
+1) 
+	Arrival: 0
+	service_time: 6
+	timeout: 32
+	priority: 3
+	waiting_time: 0
+	exit time: 6
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+2) 
+	Arrival: 4
+	service_time: 12
+	timeout: 4
+	priority: 3
+	waiting_time: 2
+	exit time: 18
+	pq time: 0
+	rr1 time: 12
+	rr2 time: 0
+	fcfs time: 0, 
+3) 
+	Arrival: 22
+	service_time: 6
+	timeout: 60
+	priority: 3
+	waiting_time: 0
+	exit time: 28
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+4) 
+	Arrival: 25
+	service_time: 6
+	timeout: 218
+	priority: 3
+	waiting_time: 3
+	exit time: 34
+	pq time: 0
+	rr1 time: 6
+	rr2 time: 0
+	fcfs time: 0, 
+5) 
+	Arrival: 29
+	service_time: 18
+	timeout: 88
+	priority: 2
+	waiting_time: 5
+	exit time: 52
+	pq time: 0
+	rr1 time: 18
+	rr2 time: 0
+	fcfs time: 0, 
+6) 
+	Arrival: 73
+	service_time: 1
+	timeout: 96
+	priority: 1
+	waiting_time: 0
+	exit time: 74
+	pq time: 0
+	rr1 time: 1
+	rr2 time: 0
+	fcfs time: 0, 
+7) 
+	Arrival: 103
+	service_time: 8
+	timeout: 88
+	priority: 2
+	waiting_time: 0
+	exit time: 111
+	pq time: 0
+	rr1 time: 8
+	rr2 time: 0
+	fcfs time: 0, 
+8) 
+	Arrival: 110
+	service_time: 14
+	timeout: 453
+	priority: 2
+	waiting_time: 1
+	exit time: 125
+	pq time: 0
+	rr1 time: 14
+	rr2 time: 0
+	fcfs time: 0, 
+9) 
+	Arrival: 114
+	service_time: 15
+	timeout: 21
+	priority: 1
+	waiting_time: 11
+	exit time: 140
+	pq time: 0
+	rr1 time: 15
+	rr2 time: 0
+	fcfs time: 0, 
+10) 
+	Arrival: 142
+	service_time: 22
+	timeout: 31
+	priority: 3
+	waiting_time: 0
+	exit time: 164
+	pq time: 0
+	rr1 time: 22
+	rr2 time: 0
+	fcfs time: 0, 
+11) 
+	Arrival: 176
+	service_time: 1
+	timeout: 321
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+12) 
+	Arrival: 176
+	service_time: 2
+	timeout: 238
+	priority: 3
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 0
+	rr2 time: 0
+	fcfs time: 0, 
+13) 
+	Arrival: 176
+	service_time: 14
+	timeout: 31
+	priority: 1
+	waiting_time: 0
+	exit time: 190
+	pq time: 0
+	rr1 time: 14
+	rr2 time: 0
+	fcfs time: 0, 
+14) 
+	Arrival: 182
+	service_time: 28
+	timeout: 252
+	priority: 3
+	waiting_time: 17
+	exit time: 227
+	pq time: 0
+	rr1 time: 28
+	rr2 time: 0
+	fcfs time: 0, 
+15) 
+	Arrival: 189
+	service_time: 9
+	timeout: 92
+	priority: 3
+	waiting_time: 1
+	exit time: 199
+	pq time: 0
+	rr1 time: 9
+	rr2 time: 0
+	fcfs time: 0, 
+16) 
+	Arrival: 207
+	service_time: 15
+	timeout: 122
+	priority: 1
+	waiting_time: 0
+	exit time: inf
+	pq time: 0
+	rr1 time: 9
+	rr2 time: 0
+	fcfs time: 0, 
+17) 
+	Arrival: 208
+	service_time: 18
+	timeout: 25
+	priority: 3
+	waiting_time: 65
+	exit time: 291
+	pq time: 0
+	rr1 time: 18
+	rr2 time: 0
+	fcfs time: 0, 
+18) 
+	Arrival: 226
+	service_time: 35
+	timeout: 43
+	priority: 1
+	waiting_time: 12
+	exit time: 273
+	pq time: 0
+	rr1 time: 35
+	rr2 time: 0
+	fcfs time: 0, 
+19) 
+	Arrival: 227
+	service_time: 7
+	timeout: 19
+	priority: 2
+	waiting_time: 0
+	exit time: 234
+	pq time: 0
+	rr1 time: 7
+	rr2 time: 0
+	fcfs time: 0, 
+20) 
+	Arrival: 230
+	service_time: 4
+	timeout: 47
+	priority: 3
+	waiting_time: 4
+	exit time: 238
+	pq time: 0
+	rr1 time: 4
+	rr2 time: 0
+	fcfs time: 0]
+[INFO] pq average time: 0.0
+[INFO] pq average length: 0.0
+[INFO] rr1 average time: 11.6
+[INFO] rr1 average length: 1.51
+[INFO] rr2 average time: 0.0
+[INFO] rr2 average length: 0.0
+[INFO] fcfs average time: 0.0
+[INFO] fcfs average length: 0.0
+[INFO] cpu was busy 71.66666666666667% of the time
