@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="marshmallow-sqlalchemy" />
+            <item index="1" class="java.lang.String" itemvalue="flask-marshmallow" />
+            <item index="2" class="java.lang.String" itemvalue="flask-sqlalchemy" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="4" class="java.lang.String" itemvalue="flask" />
+            <item index="5" class="java.lang.String" itemvalue="toml" />
+            <item index="6" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="7" class="java.lang.String" itemvalue="python-keycloak" />
+            <item index="8" class="java.lang.String" itemvalue="alien" />
+            <item index="9" class="java.lang.String" itemvalue="unidecode" />
+            <item index="10" class="java.lang.String" itemvalue="urllib3" />
+            <item index="11" class="java.lang.String" itemvalue="jwt" />
+            <item index="12" class="java.lang.String" itemvalue="python-dotenv" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
